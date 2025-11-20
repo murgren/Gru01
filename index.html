@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Visualizzazione CSV</title>
+
+<!-- DataTables CSS -->
+<link rel="stylesheet" href="https://cdn.datatables.net/1.13.4/css/jquery.dataTables.min.css">
+
+<!-- jQuery -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<!-- DataTables JS -->
+<script src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+
+</head>
+<body>
+
+<h1>Visualizzazione CSV</h1>
+<table id="tabella" class="display" style="width:100%"></table>
+
+<script>
+// Nome del tuo CSV
+const csvFile = "anagrafica.csv";
+
+fetch(csvFile)
+  .then(response => response.text())
+  .then(text => {
+    const rows = text.split("\n").map(r => r.split(","));
+    const header = rows.shift();
+
+    $('#tabella').DataTable({
+      data: rows,
+      columns: header.map(h => ({ title: h }))
+    });
+  });
+</script>
+
+</body>
+</html>
+
