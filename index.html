@@ -1,60 +1,49 @@
 <!DOCTYPE html>
 <html>
 <head>
-
-<style>
-table {
-  border-collapse: collapse;
-  width: 100%;
-}
-
-th {
-  position: sticky;
-  top: 0;
-  background: white;
-  z-index: 10;
-  border-bottom: 2px solid black;
-}
-</style>
-
-  
-
-  
 <meta charset="UTF-8">
 <title>Visualizzazione CSV</title>
 
-<!-- DataTables CSS -->
-<link rel="stylesheet" href="https://cdn.datatables.net/1.13.4/css/jquery.dataTables.min.css">
+<style>
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
 
-<!-- jQuery -->
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 15px;
+}
 
-<!-- DataTables JS -->
-<script src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+th, td {
+    border: 1px solid #888;
+    padding: 6px;
+    text-align: left;
+}
+
+/* HEADER BLOCCATO */
+th {
+    position: sticky;
+    top: 0;
+    background: white;
+    z-index: 10;
+    border-bottom: 2px solid black;
+}
+
+/* Riga alternata per più leggibilità */
+tbody tr:nth-child(even) {
+    background: #f0f0f0;
+}
+</style>
 
 </head>
 <body>
 
-<h1>Visualizzazione CSV</h1>
-<table id="tabella" class="display" style="width:100%"></table>
+<h2>Tabella Anagrafica</h2>
+<p>Caricamento del file CSV…</p>
+
+<table id="csvTable"></table>
 
 <script>
-// Nome del tuo CSV
-const csvFile = "anagrafica.csv";
-
-fetch(csvFile)
-  .then(response => response.text())
-  .then(text => {
-    const rows = text.split("\n").map(r => r.split(","));
-    const header = rows.shift();
-
-    $('#tabella').DataTable({
-      data: rows,
-      columns: header.map(h => ({ title: h }))
-    });
-  });
-</script>
-
-</body>
-</html>
-
+//
