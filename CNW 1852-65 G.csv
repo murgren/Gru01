@@ -1,0 +1,721 @@
+City,A surname,A name,DXF,A father,B surname,B name,B father,Y,M,D,A,A status,B status,,,,Rossi,Pedreschi,Santoni,E,plink
+CNW,Murati,Eusebio,X,N.N.,Bertozzi,Maria Luigia,Piero,1852,2,9,1,,,,,,,,,P,6
+CNW,Murati,Eusebio,X,N.N.,Bertozzi,Maria Luigia,Piero,1852,2,10,2,,,,,,,,,G,
+CNW,Bertoni,Luigi,F,Antonio,Soraggi,Maria Domenica,,1852,2,28,3,,,,,,,,,P,
+CNW,Bertoni,Luigi,F,Antonio,Soraggi,Maria Domenica,,1852,3,4,4,,,,,,,,,G,6
+CNW,Bojardi,Giuseppe,D,,Capitani,Domenica,Francesco,1852,4,13,5,,,,,,,,,P,7
+CNW,Attolini,Attolino,D,,Pierotti,Ersilia,,1852,4,18,6,,,,,,,,,P,
+CNW,Bojardi,Giuseppe,D,,Capitani,Domenica,Francesco,1852,4,13,7,,,,,,,,,G,7
+CNW,Attolini,Attolino,D,,Pierotti,Ersilia,,1852,4,11,8,,,,,,,,,G,3
+CNW,Bonini,Luigi Romualdo Prospero,F,Nicolao,Biagioni,Maria Caterina,fu Luigi,1852,5,2,9,,,,,,,,,P,
+CNW,Bonini,Luigi Romualdo Prospero,F,Nicolao,Biagioni,Maria Caterina,fu Luigi,1852,5,3,10,alle Lame,,,,,,,,G,6
+CNW,Bianchi,Pietro,D,Luigi,Gatti,Maria Iacopa,fu Matteo,1852,6,19,11,,,,,,,,,P,9
+CNW,Bianchi,Pietro,D,Luigi,Gatti,Maria Iacopa,fu Matteo,1852,6,19,12,,,,,,,,,G,
+CNW,Pocai,Giovanni Valente,F,Bernardo,Pedreschi,Maria Domenica,fu Pellegrino,1852,7,26,13,non celebrato?,w ROSSI,,,,,w Luigi di Stefano Rossi,,P,10
+CNW,Conti,Domenico Antonio,D,,Domenicali,Maria Cleofe,,1852,7,26,14,,,,,,,,,P,11
+CNW,Conti,Domenico Antonio,D,,Domenicali,Maria Cleofe,,1852,7,29,15,,,,,,,,,G,
+CNW,Domenicali,Giovanni Luca,F,Sebastiano,Monti,Maria Angela,Pietro Paolo,1852,8,14,16,Rontano,,,,,,,,P,11
+CNW,Domenicali,Giovanni Luca,F,Sebastiano,Monti,Maria Angela,Pietro Paolo,1852,9,2,17,Rontano,,,,,,,,G,11
+CNW,Raffaelli,Francesco,F,Giovanni Battista,Galeotti,Artemia,Carlo,1852,9,2,18,,,,,,,,,P,
+CNW,Raffaelli,Francesco,F,Giovanni Battista,Galeotti,Artemia,Carlo,1852,9,9,19,,,,,,,,,G,13
+CNW,Coli,Domenico,D,Giuseppe,Peccioli,Maria,Nicolao,1852,9,9,20,,,,,,,,,P,14
+CNW,Landini,Luigi,D,Giovanni Antonio,Pierotti,Maria Felicita,fu Luigi,1852,9,14,21,No celebr.,Casola,,,,,,,P,14
+CNW,Moriconi,Giovanni Battista,D,Domenico,Pieroni,Maria Domenica,,1852,9,17,22,,Brucciano,,,,,,,P,15
+CNW,Pierotti,Giuseppe,F,Luigi,Pierotti,Maria Felicita,fu Luigi,1852,9,20,23,,Offiano,,,,,,,G,15
+CNW,Moriconi,Giovanni Battista,D,Domenico,Pieroni,Maria Domenica,,1852,9,23,24,,Brucciano,,,,,,,G,15
+CNW,Coli,Domenico Flaminio,D,Giuseppe,Pellegrini,Marianna,,1852,9,28,25,no indice,Sassi,,,,,,,G,16
+CNW,Conti,Giorgio,F,Luigi,Ricci,Giovanna,fu Domenico,1852,10,7,26,,,,,,,,,P,17
+CNW,Vergamini,Francesco,F,Pellegrino,Biagioni,Teresa,fu Donati Domenico,1852,10,9,27,,w Guerazzi,,,,,,,P,17
+CNW,Pioli,Pietro,D,Giuseppe,Iacopini,Maria Domenica,fu Iacopo,1852,10,14,28,Cerageto,,,,,,,,P,18
+CNW,Giorgi,Giuseppe,F,Cesare,Fornari,Maria Domenica,Fornari,1852,10,29,29,,,,,,,,,P,18
+CNW,Capitani,Giuseppe,D,Francesco,Marroni,Marianna,Giuseppe,1852,10,18,30,CNW,,,,,,,,P,19
+CNW,Pioli,Pietro,D,Giuseppe,Iacopini,Maria Domenica,fu Iacopo Vincenzo,1852,10,21,31,Cerageto,Cerretoli,,,,,,,G,19
+CNW,Fiorani,Domenico,D,Giovanni,Venturelli,Assunta,fu Giuseppe,1852,10,23,32,,,,,,,,,P,20
+CNW,Bertolotti,Pietro,D,Francesco,Piazzaroli,Marianna,fu Lorenzo,1852,10,31,33,,,,,,,,,P,20
+CNW,Giorgi,Giuseppe,F,Cesare,Cubeo,Maria Domenica,Fornari,1852,10,26,34,Massa Ducale,,,,,,,,G,20
+CNW,Fiorani,Domenico,D,Giovanni,Assunta,Venturelli,fu Giuseppe,1852,10,29,35,CPG,,,,,,,,G,21
+CNW,Bertolotti,Pietro,D,Francesco,Piazzaroli,Marianna,fu Lorenzo,1852,10,31,36,Careggine,alla Croce,,,,,,,G,21
+CNW,Gaddi,Giovanni,D,Ercole,Lenzi,Maria,Pellegrino,1852,11,9,37,,,,,,,,,P,22
+CNW,Conti,Giorgio,F,Luigi,Ricci,Giovanna,,1852,11,6,38,Massa Ducale,,,,,,,,G,23
+CNW,Gaddi,Giovanni,D,Ercole,Lenzi,Maria,Pellegrino,1852,11,9,39,Rontano,,,,,,,,G,23
+CNW,Capitani,Giuseppe,D,Francesco,Marroni,Marianna,Giuseppe,1852,11,12,40,,,,,,,,,G,24
+CNW,Rebecchi,Pietro,F,Gaudenzio,Guidugli,Teresa,Nicolao,1852,11,30,41,,,,,,,,,P,24
+CNW,Pucci,Raffaello,D,Pietro,Benassi,Eletta,Luigi,1852,11,27,42,Sassi,,,,,,,,P,24
+CNW,Rebecchi,Pietro,F,Gaudenzio,Guidugli,Teresa,Nicolao,1852,11,22,43,,,,,,,,,G,25
+CNW,Pucci,Raffaello,F,Pietro,Benassi,Eletta,Luigi,1852,12,4,44,,,,,,,,,G,26
+CNW,Biagioni,Francesco,F,Antonio,Santini,Benedetta,Giovanni Domenico,1852,12,19,45,VCM/Bargecchia,w Pieroni,,,,,,,P,26
+CNW,Vergamini,Francesco,F,Pellegrino,Biagioni,Teresa,fu Donati Domenico,1852,10,18,46,,w Guerazzi,,,,,,,G,27
+CNW,Biagioni,Francesco,F,Antonio,Santini,Benedetta,Giovanni Domenico,1852,12,29,47,VCM/Bargecchia,w Pieroni,,,,,,,P,27
+CNW,Forli,Felice,D,Lorenzo,Pesetti,Maria Santa,Biagio,1853,1,21,1,,,,,,,,,P,
+CNW,Forli,Felice,D,Lorenzo,Pesetti,Maria Santa,Biagio,1853,1,28,2,,,,,,,,,G,
+CNW,Bertagni,Pietro,,,Coli,Amalia,,1853,1,31,3,,,,,,,,,P,
+CNW,Tognoli,Geremia,,,Lombardi,Teresa,,1853,1,31,4,,,,,,,,,P,5
+CNW,Lombardi,Giuseppe,,,Pieroni,Francesca Veneranda,,1853,2,1,5,,,,,,,,,P,
+CNW,Gherardi,Costanzo,,,Lenzi,Maria Rosa,,1853,2,7,6,,,,,,,,,P,6
+CNW,Pucci,Gaspero,,,Fontana,Caterina,,1853,2,14,7,,,,,,,,,P,7
+CNW,Tognoli,Geremia,,,Lombardi,Teresa,,1853,2,7,8,,,,,,,,,G,5
+CNW,Bertagni,Pietro,,,Coli,Maria Amalia,fu Raffaello,1853,2,10,9,,,,,,,,,G,8
+CNW,Leonardi,Giuseppe,F,Francesco,Pieroni,Francesca Veneranda,Giovanni Luca,1853,2,10,10,Brucciano,Brucciano,,,,,,,G,8
+CNW,Gherardi,Costanzo,D,Giovanni Maria,Lenzi,Maria Rosa,,1853,2,12,11,Stazzana F.,Montaltissimo,,,,,,,G,9
+CNW,Pucci,Gasparo,,Biagio,Fontana,Caterina,Vincenzo,1853,2,14,12,CNW/Moriano,CNW,,,,,,,G,10
+CNW,Biagioni,Francesco,,,Lombardi,Annunziata,,1853,2,22,13,PFO,Ceccovanni/Cerretoli,,,,,,,P,10
+CNW,Biagioni,Francesco,,Benedetto,Lombardi,Annunziata,,1853,2,28,14,PFO,Ceccovanni/Cerretoli,,,,,,,G,11
+CNW,Vergamini,Francesco,D,Luigi,Lenzi,Maria Felice,fu Antonio,1853,3,1,15,w Maria Turri,Buggina,,,,,,,P,11
+CNW,Vergamini,Francesco,D,Luigi,Lenzi,Maria Felice,fu Antonio,1853,3,8,16,w Maria Turri,Buggina,,,,,,,G,12
+CNW,Favali,Pietro,,,Pioli,Marianna,,1853,4,11,17,,,,,,,,,P,12
+CNW,Francia,Angelo,,,Marroni,Maria,,1853,4,13,18,Stato Sardo,,,,,,,,P,13
+CNW,Forli,Giuseppe,,Lorenzo,Bernardini,Marianna,,1853,4,7,19,Eglio-Sassi,Molazzana,,,,,,,P,13
+CNW,Monti,Enrico,F,Pellegrino,Biagioni,Maria,Carlo,1853,4,7,20,,,,,,,,,P,14
+CNW,Favali,Pietro,F,Lorenzo,Pioli,Marianna,,1853,4,11,21,,,,,,,,,G,14
+CNW,Francia,Angelo,D,Fedele,Marroni,Maria,Filippo,1853,4,13,22,,,,,,,,,G,15
+CNW,Mori,Giuseppe,D,Domenico Antonio,Salotti,Rosa,,1853,4,15,23,,,,,,,,,P,
+CNW,Panichi,Giuseppe,,Angelo,Giovannetti,Pasqua,,1853,4,16,24,,,,,,,,,P,16
+CNW,Forli,Giuseppe,,Lorenzo,Bernardini,Marianna,,1853,4,18,25,,,,,,,,,G,16
+CNW,Monti,Enrico,F,Pellegrino,Biagioni,Maria,Carlo,1853,4,21,26,Cerretoli,,,,,,,,G,17
+CNW,Mori,Giuseppe,,,Salotti,Rosa,,1853,4,21,27,,,,,,,,,G,17
+CNW,Raggi,Giuseppe,,Agostino,Porta,Teresa,,1853,4,30,28,,,,,,,,,P,18
+CNW,Bertoi,Ferdinando,,Domenico,Biagioni,Maria Antonia,,1853,4,22,29,,,,,,,,,P,18
+CNW,Panichi,Giuseppe,,Angelo,Giovannetti,Pasqua,fu Bartolomeo,1853,4,25,30,Torrite,,,,,,,,G,18
+CNW,Franci,Domenico,,Antonio,Bonini,Maria,Domenico,1853,4,25,31,Bucchia,,,,,,,,P,19
+CNW,Azzi,Girolamo,F,Pietro,Quirici,Elvira,fu Battista,1853,4,27,32,w Carli Clotilde,P nel 1852,,,,,,P nel 1852,G,19
+CNW,Bertoi,Ferdinando,,Domenico,Biagioni,Maria Antonia,Giuseppe,1853,4,29,33,,,,,,,,,G,20
+CNW,Raggi,Giuseppe,F,Agostino,Porta,Teresa,Giuseppe,1853,4,28,34,,,,,,,,,G,20
+CNW,Catelli,Enrico,F,Primitivo,Baldisseri,Rosa,fu Carlo,1853,4,30,35,,,,,,,,,P,21
+CNW,Bertoncini,Sebastiano,,Giovanni,Quirici,Elisa Agata Maria,fu Battista,1853,5,2,36,Torrite,Corfino,,,,,,,P,21
+CNW,Perigo,Achille,,,Biagioni,Romualda,,1853,5,2,37,,,,,,,,,P,22
+CNW,Franci,Domenico,,Antonio,Bonini,Maria,Domenico,1853,5,4,38,Bucchia,,,,,,,,G,22
+CNW,Catelli,Enrico,,Primitivo,Baldisseri,Maria Rosa,fu Carlo,1853,5,7,39,,,,,,,,,G,23
+CNW,Perigo,Achille,,,Biagioni,Maria Romualda,Francesco,1853,5,21,40,,,,,,,,,G,24
+CNW,Fontana,Giovanni,D,Luigi,Pellegrini,Maria Giovanna,Domenico,1853,6,17,41,Magnano,,,,,,,,P,24
+CNW,Coli,Pellegrino,F,Matteo,Adami,Clementina,Giuseppe,1853,6,14,42,,G 4 dec 1852,,,,,,G 4 dec 1852,,25
+CNW,Fontana,Giovanni,,Luigi,Pellegrini,Maria Giovanna,Domenico,1853,6,17,43,Magnano,,,,,,,,G,25
+CNW,Adami,Pietro,,Giuseppe,Adami,Maria Francesca Clementina,,1853,6,19,44,,,,,,,,G 4 dec 1852,,26
+CNW,Angelini,Angelo Domenico Pasquale,D,Domenico,Ferrari,Maria Enrichetta Estere,fu Pompeo,1853,6,30,45,Pontardeto (mugnaio),Ceserana-Fosciandora,,,,,,,P,26
+CNW,Angelini,Angelo Domenico Pasquale,D,Giovanni Matteo,Ferrari,Maria Elisabetta Estere,fu Pompeo,1853,7,10,46,Pontardeto (mugnaio),Ceserana-Fosciandora,,,,,,,G,27
+CNW,Tortelli,Nicolao,F,Francesco,Fontana,Marianna,,1853,7,24,47,,,,,,,,,P,27
+CNW,Tortelli,Nicolao,F,Francesco,Fontana,Marianna,,1853,8,1,48,,,,,,,,,G,28
+CNW,Cecchini,Primitivo,F,Iacopo,Bertolotti,Carmela,Francesco,1853,8,25,49,Stazzana,Careggine,,,,,,,P,28
+CNW,Cecchini,Primitivo,F,Iacopo,Bertolotti,Carmela,Francesco,1853,9,6,50,Stazzana,Careggine,,,,,,,G,28
+CNW,Vergamini,Iacopo,F,Alessandro,Mazzei,Iacopa,fu Luigi,1853,9,20,51,Monterotondo,S.Carlo,,,,,,,P,29
+CNW,Dini,Giovanni,F,Domenico,Turri,Clementina,,1853,9,26,52,w Matilde Quirici,Capannelle di Cerretoli,,,,,,,,29
+CNW,Focacci,Paolino,D,Francesco,Pedreschi,Maria Carola,Pietro,1853,9,26,53,Fiattone-Gallicano/Palleroso,,,,,,,,P,30
+CNW,Vergamini,Iacopo,F,Andrea,Mazzei,Iacopa,fu Luigi,1853,9,30,54,Monterotondo,S.Carlo,,,,,,,G,30
+CNW,Focacci,Paolino,D,Francesco,Pedreschi,Maria Carola,Pietro,1853,10,6,55,Fiattone-Gallicano/Palleroso,,,,,,,,G,31
+CNW,Nobili,Stefano,F,Antonio,Piazzaroli,Fiora,Giovanni,1854,4,5,1,CPG/Rontano,,,,,,,,P,4
+CNW,Bimbi,Giuseppe,D,Biagio,Guidugli,Luigia,fu Giuliano,1854,4,8,2,,,,,,,,,P,4
+CNW,Bimbi,Giuseppe,D,Biagio,Guidugli,Luigia,fu Giuliano,1854,4,19,3,,,,,,,,,G,5
+CNW,Raffaelli,Antonio,F,Giovanni,Angelini,Giovanna,fu Matteo,1854,4,20,4,,,,,,,,,P,5
+CNW,Raffaelli,Antonio,F,Giovanni,Angelini,Giovanna,fu Matteo,1854,5,2,5,,,,,,,,,G,5
+CNW,Nobili,Stefano,F,Angelo,Piazzaroli,Maria Florinda,Giovanni,1854,5,4,6,Cascianella,,,,,,,,G,6
+CNW,Franchi,Domenico,F,Pietro,Tortelli,Elisabetta,fu Stefano,1854,8,11,7,,,,,,,,,P,7
+CNW,Lombardi,Domenico,F,Luigi,Suffredini,Marianna,Giovanni,1854,8,15,8,Perpoli-Gallicano/Cerretoli,,,,,,,,P,7
+CNW,Michelini,Battista,D,Vincenzo,Incerti,Rosa,-,1854,8,16,9,,,,,,,,,P,7
+CNW,Terni,Ferdinando,F,Vincenzo,Dini,Maria Margherita Sofia,Paolo,1854,8,30,10,Sillicano/Gragnanella,,,,,,,,,8
+CNW,Franchi,Pietro,F,Luigi,Tortelli,Elisabetta,fu Stefano,1854,8,22,11,,,,,,,,,,8
+CNW,Suffredini,Domenico,F,Luigi,Suffredini,Maria Margherita Sofia,Giovanni,1854,8,22,12,Cerretoli,confusione,,,,,,,,9
+CNW,Michelini,Battista,D,Vincenzo,Magnani,Rosa,-,1854,8,24,13,,,,,,,,,G,9
+CNW,Lombardi,Domenico,F,Luigi,Suffredini,Marianna,Giovanni,1854,8,15,14,,,,,,,,,G,10
+CNW,Adami,Pietro,F,Giuseppe,Mencari,Marianna,Luigi,1854,9,14,15,,,,,,,,,P,11
+CNW,Santi,Raffaele/Raffaello,D,Iacopo,Satti,Carola,fu Giuseppe,1854,9,23,16,,,,,,,,,P,11
+CNW,Adami,Pietro,F,Giuseppe,Mencari,Marianna,Luigi,1854,9,22,17,,,,,,,,,G,11
+CNW,Santi,Raffaele/Raffaello,D,Iacopo,Satti,Carola,fu Giuseppe,1854,9,23,18,,,,,,,,,G,12
+CNW,Pucci,Carlo,D,Luigi,Gaddi,Carlotta,Carlo,1854,10,6,19,,,,,,,,,P,12
+CNW,Pucci,Carlo,D,Luigi,Gaddi,Carlotta,Carlo,1854,10,6,20,,,,,,,,,G,13
+CNW,Cavani,Francesco,D,Giuseppe,Monti,Ersilia,Luigi,1854,11,18,21,Sillicano/Cerretoli,,,,,,,,P,13
+CNW,Cavani,Francesco,D,Giuseppe,Monti,Ersilia,Luigi,1854,11,24,22,,,,,,,,,G,14
+CNW,Poli,Eleno,F,Bartolomeo,Guidugli,Margherita,fu Giuliano,1854,11,27,23,,,,,,,,,P,15
+CNW,Poli,Eleno,F,Bartolomeo,Guidugli,Margherita,fu Giuliano,1854,12,3,24,,,,,,,,,G,15
+CNW,Angelini,Angelo,F,Andrea,Lenzi,Caterina,fu Giovanni,1854,12,6,25,Antisciana,,,,,,,,P,16
+CNW,Angelini,Angelo,F,Andrea,Lenzi,Caterina,fu Giovanni,1854,12,11,26,,,,,,,,,G,16
+CNW,Lenzi,Arcangelo,F,Francesco,Cecchini,Annunziata,Antonio,1854,12,14,27,Colle,,,,,,,,P,17
+CNW,Lenzi,Arcangelo,F,Francesco,Cecchini,Annunziata,Antonio,1854,12,21,28,,,,,,,,,G,17
+CNW,Pandori,Antonio,D,Giuseppe,Bonini,Maria Giuditta,Domenico,1854,12,28,29,,,,,,,,,P,18
+CNW,Pandori,Antonio,D,Giuseppe,Bonini,Maria Giuditta,,1855,1,4,1,,,,,,,,,G,4
+CNW,Marigliani,Stefano,,,Onesti,Carola,,1855,1,15,2,,,,,,,,,P,4
+CNW,Marigliani,Stefano,,,Onesti,Carola,,1855,1,25,3,,,,,,,,,G,5
+CNW,Dini,Tommaso,,,Cecchini,Giovanna,,1855,2,8,4,,,,,,,,,P,5
+CNW,Terni,Luigi,D,Nicolao,Boschi,Mariangela,,1855,2,10,5,,,,,,,,,P,6
+CNW,Terni,Luigi,D,Nicolao,Boschi,Mariangela,,1855,2,16,6,,,,,,,,,G,6
+CNW,Dini,Tommaso,F,Domenico,Cecchini,Maria Giovanna,,1855,2,17,7,,,,,,,,,G,7
+CNW,Bacci,Geminiano,,,Bianchini,Lucia,,1855,2,17,8,,,,,,,,,P,7
+CNW,Coli,Odoardo,,,Catelli,Irene,,1855,2,19,9,,,,,,,,,P,8
+CNW,Bacci,Geminiano,,,Bianchini,Lucia,,1855,2,28,10,,,,,,,,,G,8
+CNW,Coli,Odoardo,,,Catelli,Irene,,1855,3,3,11,,,,,,,,,G,9
+CNW,Vanni,Angiolo,,,Ciofi,Bernardina,,1855,3,8,12,,,,,,,,,,9
+CNW,Grassi,Michele,F,Domenico,Salotti,Iacopa,Antonio,1855,3,12,13,,,,,,,,,P,10
+CNW,Grassi,Michele,F,Domenico,Salotti,Iacopa,Antonio,1855,3,20,14,,,,,,,,,G,11
+CNW,Rochiccioli,Pietro,,,Piazzaroli,Maria Carola,,1855,4,26,15,,,,,,,,,P,11
+CNW,Fusai,Luigi,,Giovanni Antonio,Terni,Maria Alba,,1855,4,20,16,,,,,,,,,P,12
+CNW,Rochiccioli,Pietro,,,Piazzaroli,Maria Carola,,1855,4,26,17,,,,,,,,,G,12
+CNW,Fusai,Luigi,,Giovanni Antonio,Terni,Maria Alba,,1855,5,3,18,,,,,,,,,G,13
+CNW,Angelini,Pietro,,,Vergamini,Maddalena,,1855,5,31,19,,,,,,,,,P,13
+CNW,Angelini,Pietro,,,Vergamini,Maddalena,,1855,6,10,20,,,,,,,,,G,14
+CNW,Turri,Giovanni,,,Lunardi,Apollonia,,1855,6,28,21,,,,,,,,,P,14
+CNW,Turri,Giovanni,,,Lunardi,Apollonia,,1855,7,7,22,,,,,,,,,G,15
+CNW,Giannasi,Pietro,,,Vergamini,Chiara,,1855,7,26,23,,,,,,,,,P,15
+CNW,Marigliani,Michele,,,Tagliasacchi,Iacopa,,1855,8,2,24,,,,,,,,,P,16
+CNW,Giannasi,Pietro,,,Vergamini,Chiara,Pietro,1855,8,2,25,,,,,,,,,G,16
+CNW,Marigliani,Michele,,,Tagliasacchi,Iacopa,,1855,8,9,26,,,,,,,,,G,17
+CNW,Papi,Luigi,,,Tacconi,Maria Santa,,1855,8,22,27,,,,,,,,,P,17
+CNW,Papi,Luigi,,,Tacconi,Maria Santa,,1855,8,22,28,,,,,,,,,G,18
+CNW,Bertoncini,Francesco,,Innocenzo,Biagioni,Maria Ester,,1855,8,24,29,,,,,,,,,P,18
+CNW,Bertoncini,Francesco,,Innocenzo,Biagioni,Maria Ester,,1855,8,31,30,,,,,,,,,G,19
+CNW,Campedelli,Domenico,,,Muccini,Maria,,1855,9,13,31,,w Capitani,,,,,,,,19
+CNW,Monti,Luigi,,Pietro Paolo,Fornari,Maria Domenica,,1855,9,14,32,,,,,,,,,P,20
+CNW,Monti,Luigi,,Pietro Paolo,Fornari,Maria Domenica,,1855,9,20,33,,,,,,,,,G,20
+CNW,Minuziani,Guglielmo,,,Marigliani,Maria Domenica,,1855,9,24,34,,,,,,,,,P,21
+CNW,Minuziani,Guglielmo,,,Marigliani,Maria Domenica,,1855,10,1,35,,,,,,,,,G,21
+CNW,Genesini,Domenico,X,H Pisa,Bacci,Maria,,1855,11,29,36,Marigliana,,,,,,,,,22
+CNW,Bernardini,Nicolao,,Giuseppe,Bonini,Maria,,1855,12,6,37,,,,,,,,,,22
+CNW,Pucci,Pietro,,Luigi,Lavelli,Caterina,,1855,12,10,38,,,,,,,,,,23
+CNW,Micheli,Francesco,F,Carlo,Togni,Egidia,fu Batista,1856,1,14,1,Metello-Rontano,,,,,,,,,8
+CNW,Baldisseri,Domenico,,Vincenzo,Santoni,Carola,Giuseppe,1856,2,4,2,,,,,,,,,,8
+CNW,Bernardi,Pellegrino,,Giuseppe,Venturi,Elisabetta,Domenico,1856,2,11,3,,,,,,,,,,9
+CNW,Brondi,Antonio,,Paolo,Brunetti,Giulia,H Pisa,1856,3,3,4,,,,,,,,,,9
+CNW,Cozza,Luigi,,,Saloj,Luigia,,1856,3,15,5,,,,,,,,,,10
+CNW,Barsanti,Piero,F,Luigi,Vannugli,Amalia,fu Giovanni Battista,1856,5,3,6,orefice,,,,,,,,,11
+CNW,Guidugli,Giovanni,F,Luigi,Bernardi,Albina,Francesco,1856,5,6,7,Fosciandora,,,,,,,,,11
+CNW,Biagioni,Pietro,,,Guidulli,Rosa,,1856,5,11,8,Montaltissimo,,,,,,,,,12
+CNW,Brolio,Antonio,,,Coli,Matilde,,1856,4,14,9,,,,,,,,,,12
+CNW,Bertoi,Giuseppe,,Ottavio,Marigliani,Angela,Pietro,1856,6,19,10,,,,,,,,,,13
+CNW,Suffredini,Pietro,,Tommaso,Biagioni,Annunziata,Giovanni,1856,6,21,11,,,,,,,,,,13
+CNW,Rinaldi,Rinaldo,,Girolamo,Giovannoli,Giustina,Luigi,1856,6,30,12,,,,,,,,,,14
+CNW,Turri,Piero,,Andrea,Rossi,Maria Domenica,fu Lorenzo,1856,7,4,13,,,,,,,,,P,14
+CNW,Turri,Pietro,,Andrea,Rossi,Maria Domenica,,1856,7,13,14,,,,,,,,,G,15
+CNW,Giovannetti,Giovanni,,Iacopo,Bertoncini,Elisa,Giovanni,1856,9,2,15,,,,,,,,,,16
+CNW,Muccini,Pietro,,Luigi,Bonini,Maria Pasqua,,1856,9,25,16,,,,,,,,,,16
+CNW,Corsi,Lorenzo,F,Giuseppe,Rontanini,Apollonia,,1856,9,26,17,,,,,,,,,,17
+CNW,Pandori,Pietro,F,Barttolomeo,Rontanini,Rosa,,1856,10,6,18,Giuncugnano/Palleroso,,,,,,,,,17
+CNW,Bonini,Pellegrino,,Antonio,Bechelli,Luigia,,1856,10,7,19,,w Coli,,,,,,,,18
+CNW,Rontanini,Pellegrino,,,Pedreschi,Candida,,1856,10,7,20,,,,,,,,,,18
+CNW,Piazzaroli,Antonio,,,Cecchini,Maria Assunta Carmela,,1856,10,15,21,,,,,,,,,,19
+CNW,Marchesotti,Domenico,,,Cursi,Maria Angela,,1856,10,23,22,,,,,,,,,,20
+CNW,Fornari,Pietro,F,Iacopo,Ginesi,Caterina,,1856,10,25,23,,,,,,,,,,20
+CNW,Marroni,Pietro,D,Giuseppe,Giannotti,Emilia,Pietro,1856,10,31,24,,,,,,,,,,21
+CNW,Bertolotti,Giuseppe,D,Cesare,Venturelli,Maria Palma,fu Domenico,1856,11,7,25,,,,,,,,,,22
+CNW,Pucci,Pietro,,,Bimbi,Teresa,,1856,11,17,26,Ponte a Moriano,,,,,,,,,23
+CNW,Rossi,Giuseppe y44,F,Evangelista,Castelli,Rosa,Vincenzo,1856,11,20,27,w Biagioni Elisabetta,w Bacci Battista,,,PFO,,,,,23
+CNW,Capitani,Antonio,,,Fabbiani,Maria,,1856,11,22,28,,,,,,,,,,24
+CNW,Giannetti,Giuseppe,F,D. Sante,Boschi,Maria Domenica,,1856,12,6,29,w M. D. Pellegrino,w Coli,,,Torrite,,Rontano,Cerrretoli,,24
+CNW,Marcucci,Pietro,F,Antonio,Venturi,Edvige,Domenico,1856,12,15,30,Ceserana-Fosciandora,,,,,,,,,25
+CNW,Piazzaroli,Giuseppe,,,Turri,Annunziata,,1857,1,22,1,,,,,,,,,P,4
+CNW,Piazzaroli,Giuseppe,,,Turri,Annunziata,,1857,2,9,2,,,,,,,,,G,4
+CNW,Cancherini,Domenico,F,Nicolao,Cancherini,Lucia,Antonio,1857,2,12,3,,,,,,,,,,5
+CNW,Bimbi,Giuseppe,F,Girolamo,Lunardi,Marianna,,1857,3,2,4,,,,,,,,,,5
+CNW,Carminati,Giuseppe,F,Francesco,Rosati Della Bona,Isolina,Filippo,1857,3,2,5,medico,,,,,,,,,6
+CNW,Micheli,Francesco,,,Piazzaroli,Teresa,,1857,3,16,6,,,,,,,,,,6
+CNW,Bianchini,Romualdo,,,Pierotti,Zoe,,1857,4,18,7,,,,,,,,,,7
+CNW,Bianchi,Ferdinando,F,Francesco,Bacci,Teresa,,1857,4,18,8,,,,,,,,,,8
+CNW,Bonini,Ciriaco,,,Gaddi,Maria Assunta,,1857,4,25,9,,,,,,,,,,8
+CNW,Cavani,Domenico,D,Luigi,Lombardi,Maria Luisa,,1857,4,27,10,,,,,,,,,,9
+CNW,Cerri,Eusebio,,,Marigliani,Teresa,,1857,5,6,11,,,,,,,,,,9
+CNW,Bacci,Annibale,,,Giorgi,Giovanna,,1857,5,23,12,,,,,,,,,,10
+CNW,Tagliasacchi,Stefano,F,Francesco,Rossi,Luigia,Francesco,1857,6,12,13,falegname,y23 CNW,,,withness Rossi Benedetto di Giuseppe,,,,,10
+CNW,Genesini,Giovanni Batista,,,Maiorfi,Anna,,1857,6,22,14,,,,,,,,,,11
+CNW,Monti,Giovanni,,,Bertelli,Benedetta,,1857,6,23,15,,,,,,,,,,12
+CNW,Pecchi,Giovanni Sebastiano,F,Giuseppe,Biagioni,Luigia,,1857,7,1,16,mugnajo,Torrite,,,,,,,,12
+CNW,Padredì,Angelo,D,Giosafat,Turri,Rosa,,1857,7,3,17,,Torrite,,,,,,,,13
+CNW,Coli,Francesco,D,Marco,Azzi,Elena,Vincenzo,1857,7,11,18,,,,,,,,,,14
+CNW,Poli,Nicolao,D,Domenico,Tortelli,Maria Rosa,fu Antonio,1857,7,13,19,,,,,,,,,,14
+CNW,Pietro,Bassi,D,Marco,Biagioni,Maria Beatrice,fu Daniele,1857,8,1,20,w Ferrari Luigia,,,,,,,,,15
+CNW,Cancherini,Iacopo,,,Monti,Luigia,,1857,8,17,21,,,,,,,,,,15
+CNW,Lunatici,Nicolao,,,Dini,Carmela,,1857,8,17,22,,,,,,,,,,16
+CNW,Tirelli,Luigi,D,Giovanni,Briganti,Marianna,fu Michele,1857,9,4,23,,w Bacci,,,,,,,,17
+CNW,Luigi,Lenzi,D,Cristoforo,Paolini,Elisabetta,Luigi,1857,9,7,24,,Palleroso,,,,,,,,18
+CNW,Tonelli,Luigi,F,Bartolomeo,Capitani,Maria Filomena,Francesco,1857,9,11,25,,,,,,,,,,18
+CNW,Piazzaroli,Luigi,F,D. Antonio,Mori,Marianna,Domenico,1857,9,15,26,,,,,,,,,,19
+CNW,Monti,Antonio,,,Azzi,Caterina,,1857,9,16,27,,,,,,,,,,20
+CNW,Fornari,Domenico,F,Francesco,Giannetti,Caterina,,1857,9,24,28,,,,,,,,,,20
+CNW,Benassi,Francesco,,,Minghini,Marianna,,1857,10,9,29,,,,,,,,,,21
+CNW,Landi,Domenico,D,Pellegrino,Bertoni,Maddalena,,1857,10,12,30,,,,,,,,,,22
+CNW,Nannini,Giacomo,,,Lunardi,Pellegrina,Francesco,1857,10,16,31,,w Raffaello Dell'Angelica,,,,,,,,22
+CNW,Fiori,Ferdinando,F,Giovanni,Vergevi,Carola,H Pisa,1857,10,27,32,,Torrite,,,,,,,,23
+CNW,Gaddi,Enrico,,,Azzi,Maria Teresa,,1857,11,2,33,,,,,,,,,,24
+CNW,Bussi,Davide,D,Marco,Paolini,Filomena,,1857,11,14,34,,,,,,,,,,24
+CNW,Giannasi,Bartolomeo,F,Batista,Lenzi,Maria Giovanna,,1857,11,14,35,,,,,,,,,,25
+CNW,Esposito,Pietro,,,Vergamini,Assunta,,1857,11,17,36,,,,,,,,,,26
+CNW,Poli,Pietro,F,Andrea,Favali,Giovanna,,1857,12,3,37,,,,,,,,,,26
+CNW,Franci,Giovanni,D,Antonio,Bonaldi,Maria Assunta,Fedele,1857,12,10,38,,,,,,,,,,27
+CNW,Franchi,Paolo,F,Marco,Lombardi,Francesca,Pietro Antonio,1857,12,10,39,,Filicaia/alla Torretta,,,,,,,,28
+CNW,Monti,Giuseppe,F,Pellegrino,Iacopini,Maria,,1858,1,21,1,,,,,,,,,,4
+CNW,Rinaldi,Nicolao,,,Bonini,Maria Assunta,,1858,1,21,2,,,,,,,,,,4
+CNW,Rontanini,Donato,,,Pedreschi,Teresa,,1858,1,21,3,,,,,,,,,,5
+CNW,Biagioni,Bartolomeo,,,Giannasi,Elisabetta,,1858,2,5,4,,,,,,,,,,6
+CNW,Bertolini,Enrico,,,Biagioni,Caterina,,1858,2,8,5,,,,,,,,,,7
+CNW,Giannetti,Angelo,D,Francesco,Cancherini,Filomena,,1858,2,12,6,,,,,,,,,,7
+CNW,Azzi,Angelo,,,Fontana,Maria Domenica,,1858,2,19,7,,Pievepelago,,,,,,,,8
+CNW,Togneri,Sante Giovanni,,,Bonini,Vittoria,,1858,2,22,8,,,,,,,,,,9
+CNW,Tonini,Leopoldo,,,Iacopucci,Teresa,,1858,3,23,9,,,,,,,,,,9
+CNW,Rossi,Giovanni,F,Lorenzo,Pecchi,Marianna,Antonio,1858,4,22,10,,Torrite/Cerretoli,,,,,,,,10
+CNW,Gombia,Antonio,,,Biagioni,Assunta,,1858,5,4,11,,,,,,,,,,11
+CNW,Cipriani,Iacopa,,,Fiori,Antonio,,1858,5,5,12,,,,,,,,,,11
+CNW,Fruttelli,Cleto,,,Bacci,Maria Iacopa,,1858,5,22,13,,,,,,,,,,12
+CNW,Rossi,Primitivo,F,Lorenzo,Azzi,Luigia,Vincenzo,1858,6,25,14,,Montaltissimo(Molazzana)Torrite,,,,,,,,13
+CNW,Bonini,Agostino,,,Pedreschi,Marianna,fu Pellegrino,1858,6,30,15,,,,,,,,,,13
+CNW,Bacci,Nicolao,,,Papini,Stella,,1858,7,9,16,,,,,,,,,,14
+CNW,Rossi,Benedetto,D,Giuseppe,Guazzelli,Luigia,,1858,8,9,17,y33 wFranchi Marianna,CNW/CGL,,,,,,,,15
+CNW,Cancherini,Pasquale,D,Domenico Antonio,Fabbiani,Stella,,1858,8,18,18,,,,,,,,,,16
+CNW,Cancherini,Iacopo Antonio,F,Luigi,Monti,Maria Luigia,fu Luigi,1858,8,19,19,,,,,,,,,,16
+CNW,Castelli,Giovanni,F,Dommenico Antonio,Suffredini,Angela,Giovanni,1858,8,20,20,,,,,,,,,,17
+CNW,Paolini,Tommaso,D,Antonio,Biondi,Paolina,fu Antonio,1858,8,26,21,,,,,,,,,,18
+CNW,Poli,Ferdinando,,,Lenzi,Filomena,,1858,9,1,22,,,,,,,,,,19
+CNW,Pergoli,Pietro,D,Sante,Bertoi,Chiara,,1858,9,3,23,,,,,,,,,,19
+CNW,Biondi,Valente,,,Pedreschi,Margherita,,1858,9,6,24,,,,,,,,,,20
+CNW,Mori,Virginia,,,Fornari,Batista,,1858,9,11,25,,,,,,,,,,21
+CNW,Rossi,Ferdinando,F,Domenico,Catelli,Paolina,Marsilio,1858,9,13,26,y22,,,,,,,,,21
+CNW,Cavani,Francesco,D,Geminiano,Migliai,Francesca,H Pisa,1858,9,13,27,y25,,,,,,,,,22
+CNW,Bertoncini,Pietro,,,Lenzi,Teresa,,1858,9,14,28,,,,,,,,,,22
+CNW,Tolaini,Antonio,D,Pietro,Bertoncini,Luigia,,1858,9,14,29,,,,,,,,,,23
+CNW,Moscardini,Domenico,,,Salotti,Iacopa,,1858,9,18,30,,w Grassi Michele ,,,,,,,,24
+CNW,Biagioni,Felice,D,Francesco,Gombia,Maria Assunta,fu Francesco,1858,9,20,31,,,,,,,,,,24
+CNW,Guidugli,Paolo,D,Angelo,Onesti,Maria,,1858,9,20,32,,,,,,,,,,25
+CNW,Incerti,Antonio,,,Biagioni,Rosa,,1858,9,30,33,,,,,,,,,,25
+CNW,Azzi,Ferdinando,,,Biagioni,Teresa,,1858,10,5,34,,,,,,,,,,26
+CNW,Bertolini,Domenico,F,Domenico,Dominici,Giovanna Teresa,Pellegrino,1858,10,7,35,,Torrite,,,,,,,,27
+CNW,Bertoi,Felice,F,Domenico,Bianchi,Claudia,fu Francesco,1858,10,11,36,,,,,,,,,,27
+CNW,Biagioni,Massimo,D,Giovanni,Bianchi,Bianca,fu Francesco,1858,10,11,37,,,,,,,,,,28
+CNW,Barsanti,Luigi,,,Giovannetti,Assunta,Agostino Giovanni,1858,11,5,38,,,,,,,,,,28
+CNW,Biondi,Pietro,,,Pedreschi,Pasqua,fu Regolo,1858,11,15,39,,Palleroso,,,,,,,,29
+CNW,Fabbiani,Giuseppe,F,Carlo,Bertolini,Geltrude,,1858,11,22,40,locandiere,,,,,,,,,30
+CNW,Pieroni,Prospero,D,Paolo,Paolini,Albina,,1858,12,9,41,,Sassi-Molazzana,,,,,,,,30
+CNW,Castori,Lazzaro,,,Dominici,Assunta,,1858,12,16,42,,,,,,,,,,31
+CNW,Azzi,Giorgio,D,Antonio,Poli,Maria,,1858,12,16,43,,,,,,,,,,32
+CNW,Valdrighi,Pietro,,,Biagioni,Annunziata,,1859,1,7,1,,,,,,,,,,4
+CNW,Togni,Antonio,,,Piazzaroli,Maria Antonia,,1859,1,13,2,,,,,,,,,,4
+CNW,Pucci,Giuseppe,,,Togni,Maria,,1859,1,20,3,,,,,,,,,,5
+CNW,Rosa,Francesco,,,Pucci,Assunta,,1859,1,24,4,,,,,,,,,,6
+CNW,Bonaldi,Pietro,,,Franci,Assunta,,1859,1,26,5,,,,,,,,,,6
+CNW,Bacci,Giuseppe,,,Satti,Luigia,,1859,2,8,6,,,,,,,,,,7
+CNW,Villa,Ignazio,,,Turri,Cristina,,1859,2,16,7,,,,,,,,,,7
+CNW,Biagioni,Paolo,,,Marigliani,Teresa,,1859,2,26,8,,,,,,,,,,8
+CNW,Bonini,Cleto,,,Levrangi,Teresa,,1859,2,28,9,,,,,,,,,,9
+CNW,Giannasi,Domenico,,,Biagioni,Maria,,1859,3,10,10,,,,,,,,,,9
+CNW,Pelliccioni,Agostino,,,Pellegrinetti,Enrina,,1859,3,12,11,,,,,,,,,,10
+CNW,Pucci,Batista,,,Venturelli,Maria,,1859,3,24,12,,,,,,,,,,11
+CNW,Vasetti,Pietro,,,Tagliasacchi,Marianna,,1859,3,30,13,,,,,,,,,,12
+CNW,Conti,Pietro,,,Cancherini,Maria Carolina,,1859,4,7,14,,,,,,,,,,12
+CNW,Fiori,Pietro,,,Giovannetti,Teresa,,1859,4,22,15,,,,,,,,,,13
+CNW,Tagliasacchi,Tommaso,,,Giovannetti,Marianna,,1859,5,4,16,,,,,,,,,,13
+CNW,Pennacchi,Angelo,,,Andreucci,Maria Filomena,,1859,5,7,17,,,,,,,,,,14
+CNW,Nardini,Antonio,,,Giannasi,Teresa,,1859,6,18,18,,Migliano-Fosciandora,,,,,,,,15
+CNW,Bimbi,Francesco,,,Bonaldi,Rosa,,1859,6,18,19,,,,,,,,,,15
+CNW,Angeli,Paolino,,,Sacconi,Maria Angela,,1859,6,20,20,,,,,,,,,,16
+CNW,Marigliani,Pietro,,,Barbi/Bertoi?,Maria Teresa,,1859,6,21,21,,,,,,,,,,17
+CNW,Franchini,Remigio,,,Pecchi,Marianna,,1859,6,28,22,,,,,,,,,,18
+CNW,Raffaelli,Pietro,,,Pierotti,Marianna,,1859,7,14,23,,,,,,,,,,18
+CNW,Bertucci,Pellegrino,,,Gaddi,Caterina,,1859,7,20,24,,Pontardeto,,,,,,,,19
+CNW,Tagliasacchi,Giovanni,,,Monti,Maria Pasqua,,1859,8,13,25,mugnaio,Torrite,,,,,,,,19
+CNW,Bertozzi,Giuseppe,,,Bonini,Rosa,,1859,8,13,26,vedovo,,,,,,,,,20
+CNW,Biagiorni,Raffaele,,,Bonini,Celeste,,1859,8,20,27,,,,,,,,,,20
+CNW,Grilli,Pietro,F,Iacopo,Suffredini,Maria,,1859,9,10,28,,,,,,,,,,21
+CNW,Lucchesi,Luigi,D,Pellegrino,Ferrari,Giovanna,,1859,9,20,29,,,,,,,,,,22
+CNW,Biagioni,Angelo,D,Francesco,Castelli,Maria Annunziata,,1859,9,20,30,,,,,,,,,,22
+CNW,Virgili,Domenico,,,Mori,Rosa,,1859,9,22,31,,,,,,,,,,23
+CNW,Bertolini,Ferdinando,,,Azzi,Luigia,,1859,9,23,32,,,,,,,,,P,24
+CNW,Gaddi,Luigi,,,Nardini,Matilde,Pompeo,1859,10,12,33,,,,,,,,,,24
+CNW,Biagioni,Michelangelo,F,Donato,Turricchi,Maria Caterina,,1859,10,20,34,,,,,,,,,,25
+CNW,Gaddi,Luigi,,,Nardini,Matilde,,1859,10,21,35,,,,,,,,,,25
+CNW,Biagioni,Ferdinando,,,Rondina,Anna,,1859,10,30,36,,w Biagioni,,,,,,,,26
+CNW,Lombardi,Giuseppe,,,Pioli,Fidalma,,1859,11,3,37,,,,,,,,,P,26
+CNW,Lombardi,Giuseppe,,,Pioli,Fidalma,,1859,11,3,38,,,,,,,,,G,27
+CNW,Bertolini,Ferdinando,,,Azzi,Luigia,,1859,11,4,39,,,,,,,,,G,28
+CNW,Riani,Angelo,,,Andreucci,Luigia,,1859,11,22,40,,,,,,,,,P,28
+CNW,Riani,Angelo,,,Andreucci,Luigia,,1859,11,22,41,,,,,,,,,G,29
+CNW,Castelli,Giovanni Battista,,,Vanni,Teresa,,1859,11,30,42,,,,,,,,,P,29
+CNW,Castelli,Giovanni Battista,,,Vanni,Teresa,,1859,12,7,43,,,,,,,,,G,30
+CNW,Giorgiolli,Armando,,,Girolami,Elvira,,1859,12,15,44,,,,,,,,,P,30
+CNW,Fusari,Angelo,,,Biagioni,Giovanna,,1859,12,16,45,,,,,,,,,P,31
+CNW,Fusari,Angelo,,,Biagioni,Giovanna,,1859,12,19,46,,,,,,,,,G,31
+CNW,Giorgiolli,Armando,,,Girolami,Elvira,,1859,12,20,47,,,,,,,,,G,32
+CNW,Angelini,Enrico,,,Giovannoli,Lucia,,1859,12,28,48,,,,,Pontardeto,,,,P,32
+CNW,Angelini,Enrico,,,Giovannoli,Lucia,,1860,1,8,1,,,,,,,,,G,4
+CNW,Bonaldi,Angelo,,,Bertoncini,Mariangela,,1860,1,12,2,,,,,,,,,P,4
+CNW,Bonaldi,Angelo,,,Bertoncini,Mariangela,,1860,1,24,3,,,,,,,,,G,5
+CNW,Bianchini,Anacleto,,,Vallini,Zoe Felicita,,1860,1,25,4,,,,,,,,,,5
+CNW,Bimbi,Nicodemo,,,Lunardi,Agata,,1860,1,29,5,,,,,,,,,P,6
+CNW,Bertolotti,Giovanni,,,Turri,Maria Carolina,,1860,2,18,6,,,,,,,,,P,6
+CNW,Turri,Giuseppe,,,Biagioni,Marianna,,1860,2,3,7,,,,,,,,,P,7
+CNW,Ferrari,Iacopo,,,Partigliani,Maria Luigia,,1860,2,5,8,,,,,,,,,,8
+CNW,Cavani,Giovanni Battista,D,Bartolomeo,Coli,Maria Larissa,fu Raffaele,1860,2,7,9,y28 cappellajo,,,,Pontardeto,,,,P,8
+CNW,Fabbiani,Angelo,,,Ricci,Caterina,,1860,2,7,10,,,,,,,,,P,9
+CNW,Bimbi,Nicodemo,,,Lunardi,Agata,,1860,2,9,11,,,,,,,,,G,9
+CNW,Ferrari,Iacopo,,,Partigiani,Luigia,,1860,2,10,12,,,,,,,,,G,10
+CNW,Dini,Pietro,,,Pucci,Maria Domenica,,1860,2,10,13,,,,,,,,,P,10
+CNW,Michelini,Enrico,,,Pergoli,Egle,,1860,2,10,14,,,,,,,,,P,11
+CNW,Turri,Giuseppe,,,Biagioni,Marianna,,1860,2,13,15,,,,,,,,,G,11
+CNW,Cavani,Giovanni Battista,D,Bartolomeo,Coli,Maria Larissa,fu Raffaele,1860,2,15,16,cappellaio,,,,,,,,G,12
+CNW,Fiori,Ottavio,,,Bonini,Teresa,,1860,2,16,17,,,,,,,,,P,12
+CNW,Dini,Pietro,F,Giovanni,Pucci,Maria Domenica,,1860,2,17,18,,,,,,,,,G,13
+CNW,Michelini,Enrico,,,Pergoli,Egle,,1860,2,17,19,,,,,,,,,G,14
+CNW,Bertolotti,Giovanni,,,Turri,Maria Carolina,,1860,2,18,20,,,,,,,,,G,14
+CNW,Fiori,Ottavio,,,Bonini,Teresa,,1860,2,20,21,,,,,,,,,G,15
+CNW,Adami,Ermete,,,Bonaldi,Maria Rosa,,1860,2,20,22,,,,,,,,,P,16
+CNW,Fabbiani,Angelo,,,Ricci,Caterina,,1860,2,26,23,,,,,,,,,G,16
+CNW,Adami,Ermete,,,Bonaldi,Maria Rosa,,1860,2,27,24,,,,,,,,,G,17
+CNW,Marigliani,Antonio,F,Giuseppe,Satti,Chiara,,1860,3,21,25,m.Rossi Barbera,,,,,,,,P,17
+CNW,Paolini,Pietro Felice,,,Paolini,Maria Cecilia,,1860,4,19,26,,,,,,,,,P,18
+CNW,Giovannini,Giuseppe,,,Bacci,Angela,,1860,4,24,27,,,,,,,,,P,18
+CNW,Pedreschi,Giuseppe,,,Baldisseri,Angela,,1860,4,30,28,Palleroso,Palleroso,,,,,,,P,19
+CNW,Pedreschi,Giuseppe,,,Baldisseri,Angela,,1860,5,1,29,Palleroso,Palleroso,,,,,,,G,19
+CNW,Paolini,Felice Pietro,D,Antonio,Paolini,Maria Cecilia,Antonio,1860,5,3,30,,,,,,,,,G,20
+CNW,Marigliani,Antonio,F,Giuseppe,Satti,Chiara,,1860,5,4,31,,,,,,,,,G,20
+CNW,Giovannini,Giuseppe,,,Bacci,Angela,,1860,5,5,32,,,,,,,,,G,21
+CNW,Dotti,Amadeo,,,Coturri/Coturri,Gioconda,,1860,5,23,33,,,,,,,,,P,21
+CNW,Zanotti,Giuseppe,F,Eusebio,Morelli,Maria Domenica,Sante,1860,5,29,34,,,,,,,,,P,22
+CNW,Dotti,Amadeo,,,Coturri,Gioconda,,1860,5,26,35,,,,,,,,,G,22
+CNW,Zanotti,Giuseppe,F,Eusebio,Morelli,Maria Domenica,Sante,1860,5,29,36,,,,,,,,,G,23
+CNW,Orlandi,Francesco,,,Giannasi,Maria,,1860,6,12,37,,,,,,,,,P,24
+CNW,Orlandi,Francesco,,,Giannasi,Maria,,1860,6,16,38,,,,,,,,,G,24
+CNW,Pieroni,Antonio,,,Marchesotti,Maria,,1860,6,28,39,,,,,,,,,,25
+CNW,Michelini,Ferdinando,,,Del Buttero,Maria Rosa,,1860,7,27,40,,,,,,,,,P,25
+CNW,Michelini,Ferdinando,,,Del Buttero,Maria Rosa,,1860,8,4,41,,,,,,,,,G,26
+CNW,Biagioni,Giuseppe,,,Bacci,Maria Iacopa,,1860,8,30,42,,w Biagioni,,,,,,,P,26
+CNW,Biagioni,Giuseppe,,,Bacci,Maria Iacopa,,1860,9,19,43,,w Biagioni,,,,,,,G,27
+CNW,Pedreschi,Giovanni,,,Valdrighi,Maria Elisabetta,,1860,9,20,44,,,,,Monterotondo,,,,P,27
+CNW,Tagliasacchi,Domenico,,,Rivieni,Tecla,,1860,9,24,45,,,,,,,,,P,28
+CNW,Azzi,Nicolao,,,Iacopini,Maria Luigia,,1860,9,24,46,,,,,,,,,P,28
+CNW,Tagliasacchi,Domenico,,,Rivieni,Tecla,,1860,9,24,47,,,,,,,,,G,29
+CNW,Cecchini,Aldebrando,,,Giovannoli,Emilia,,1860,9,27,48,,,,,,,,,P,30
+CNW,Pedreschi,Giovanni,,,Valdrighi,Maria Elisabetta,,1860,9,27,49,,,,,Monterotondo,,,,G,30
+CNW,Salotti,Ferdinando,D,Pellegrino e D. Filippi,Castelli,Maria Luigia,,1860,9,27,50,m Filippi Domenica,,,,Bargecchia,,,,P,31
+CNW,Cecchini,Aldebrando,,,Giovannoli,Emilia,,1860,10,2,51,,,,,,,,,G,31
+CNW,Bertolotti,Prospero,,,Boschi,Chiara,,1860,10,5,52,,,,,,,,,P,32
+CNW,Azzi,Nicolao,,,Iacopini,Maria Luigia,fu Iacopo,1860,10,6,53,,,,,,,,,G,32
+CNW,Salotti,Ferdinando,D,Pellegrino e D. Filippi,Castelli,Maria Luigia,,1860,10,10,54,m Filippi Domenica,,,,Bargecchia,,,,G,33
+CNW,Bertolotti,Prospero,,,Boschi,Chiara,,1860,10,11,55,,,,,,,,,G,34
+CNW,Cianti,Giovanni Luca,,,Bimbi,Mariangela,,1860,10,17,56,,,,,,,,,P,34
+CNW,Cianti,Giovanni Luca,,,Bimbi,Mariangela,,1860,10,17,57,,,,,,,,,G,35
+CNW,Lenzi,Silvestro,,,Pieroni,Marianna,,1860,11,3,58,,,,,,,,,P,35
+CNW,Lenzi,Silvestro,,,Pieroni,Marianna,,1860,11,10,59,,,,,,,,,G,36
+CNW,Biagiotti,Domenico,,,Coli,Maria Giovanna,Antonio,1860,11,20,60,,,,,,,,,P,37
+CNW,Ferrari,Tobia,,,Bosi,Luigia,,1860,11,21,61,,m Cavani,,,,,,,P,37
+CNW,Ferrari,Tobia,,,Bosi,Luigia,,1860,11,27,62,,m Cavani,,,,,,,G,38
+CNW,Biagiotti,Domenico,,,Coli,Maria Giovanna,Antonio,1860,12,6,63,,,,,,,,,G,38
+CNW,Santoni,Giuseppe,F,Francesco,Rossi,Maria Giovanna,fu Giovanni,1860,12,8,64,y26 mBiagioni,y33 m M.D.Cecchini 2nd,,,,,,,P,39
+CNW,Landi,Antonio,,,Togni,Lorica,fu G. Battista,1860,12,13,65,,,,,,,,,P,39
+CNW,Santoni,Giuseppe,F,Francesco,Rossi,Maria Giovanna,fu Giovanni,1860,12,14,66,y26 mBiagioni,y33 m M.D.Cecchini 2nd,,,,,,,G,40
+CNW,Landi,Antonio,,,Togni,Lorica,fu G. Battista,1860,12,22,67,,,,,,,,,G,40
+CNW,Garigliani,Giuseppe,,,Bonaldi,Marianna,,1860,12,31,68,,,,,,,,,P,41
+CNW,Garigliani,Giuseppe,F,Pellegrino,Bonaldi,Marianna,Massimo,1861,1,8,1,,,,,,,,,G,4
+CNW,Suffredini,Giuseppe,D,Luigi,Monti,Assunta,Giovanni Andrea,1861,1,31,2,,,,,,,,,P,4
+CNW,Suffredini,Giuseppe,D,Luigi,Monti,Assunta,Giovanni Andrea,1861,1,31,3,,,,,,,,,G,5
+CNW,Boggi,Gaetano,,,Riani,Teresa,,1861,2,10,4,,,,,,,,,P,5
+CNW,Boggi,Gaetano,,,Riani,Teresa,,1861,2,13,5,,,,,,,,,G,6
+CNW,Castelli,Sabatino,,,Menghini,Lucia,,1861,3,28,6,,,,,,,,,P,6
+CNW,Bonini,Angelo,F,Nicolao,Mazzei,Iacopa,fu Luigi,1861,4,11,7,Antisciana/Palleroso,wVergamini,,,,,,,,7
+CNW,Bernardini,Girolamo,D,Giuseppe,Pergoli,Maria Estere,,1861,4,12,8,,,,,,,,,,7
+CNW,Castelli,Sabatino,,,Menghini,Lucia,,1861,4,13,9,,,,,,,,,G,8
+CNW,Salotti,Ferdinando,F,Sante,Serafini,Teresa,fu Angelo,1861,4,18,10,,w Biagioni,,,,,,,P,8
+CNW,Bonini,Giovanni Angelo,,,Vergamini,Iacopa,,1861,4,19,11,wColi,wMazzei,,,,,,,,9
+CNW,Bernardini,Girolamo,D,Giuseppe,Pergoli,Maria Estere,,1861,4,20,12,,,,,,,,,P,10
+CNW,Bertoncini,Sebastiano,,,Poli,Clorinda,,1861,4,20,13,,,,,,,,,G,10
+CNW,Salotti,Ferdinando,F,Sante,Serafini,Teresa,fu Arcangelo,1861,4,25,14,Palleroso,w Biagioni,,,,,,,G,11
+CNW,Bertoncini,Sebastiano,D,Giovanni,Poli,Mari Clorinda,,1861,4,27,15,Torrite,,,,,,,,G,11
+CNW,Cozza,Giovanni,,,Ponticelli,Lucia,,1861,4,29,16,,,,,,,,,P,12
+CNW,Cozza,Giovanni,,,Ponticelli,Lucia,,1861,5,3,17,,,,,,,,,G,12
+CNW,Porta,Giovanni Antonio,,,Santinoni,Camilla,Antonio,1861,5,12,18,,,,,,,,,P,13
+CNW,Porta,Giovanni Antonio,,,Santinoni,Camilla,Antonio,1861,5,13,19,,,,,,,,,G,14
+CNW,Pecchi,Giuseppe,,,Garelloni,Sofia,,1861,5,22,20,,,,,,,,,P,14
+CNW,Marovelli,Antonio,F,Vincenzo,Mazzetti,Edvige,,1861,6,4,21,Sambuca SRG,,1 dec 1860,,,,,,G,15
+CNW,Pecchi,Giuseppe,,,Garelloni,Sofia,,1861,6,6,22,,,,,,,,,G,16
+CNW,Bertolotti,Angelo,F,Luigi,Bertolotti,Maria Celeste Giuditta,fu Francesco,1861,6,20,23,,,,,,,,,P,16
+CNW,Bertolotti,Angelo,F,Luigi,Bertolotti,Maria Celeste Giuditta,fu Francesco,1861,6,28,24,,,,,,,,,G,17
+CNW,Pierotti,Francesco,,,Rocchiccioli,Maria Fortunata,,1861,8,18,25,,,,,,,,,P,18
+CNW,Cassettari,Iacopo Sabatino,D,Francesco,Monti,Angelica,,1861,8,20,26,,,,,,,,,P,18
+CNW,Santoni,Pietro,D,Giuseppe,Bonini,Beatrice,Giuliano,1861,9,9,27,m Mori Rosa,,,,,,,,P,19
+CNW,Santini,Francesco,,,Coli,Margherita,,1861,8,30,28,Ceserana,,,,,,,,P,19
+CNW,Cassettari,Iacopo Sabatino,D,Francesco,Monti,Angelica,,1861,9,5,29,,,,,,,,,G,20
+CNW,Santini,Francesco,,,Coli,Margherita,,1861,9,6,30,,,,,,,,,G,20
+CNW,Pierotti,Francesco,,,Rocchiccioli,Maria Fortunata,,1861,9,9,31,,,,,,,,,G,21
+CNW,Santoni,Pietro,D,Giuseppe,Bonini,Beatrice,Giuliano,1861,9,9,32,m Mori Rosa,,,,,,,,G,21
+CNW,Biagioni,Massimiliano,,,Pedreschi,Carola,fu Giovanni,1861,9,20,33,Palleroso,,,,,,,,P,22
+CNW,Favali,Felice,,,Giovannoli,Maria Domenica,,1861,9,21,34,,,,,,,,,P,22
+CNW,Terni,Iacopo,,,Venturelli,Marianna,,1861,9,23,35,,,,,,,,,P,23
+CNW,Venturelli,Luigi,,,Piazzaroli,Angela,,1861,9,23,36,,,,,,,,,P,23
+CNW,Bonaldi,Pietro,,,Biagioni,Giovanna,Francesco,1861,9,26,37,,,,,,,,,P,24
+CNW,Favali,Felice,,,Giovannoli,Maria Domenica,,1861,9,26,38,,,,,,,,,G,24
+CNW,Conti,Luigi,D,Angelo,Cecchini,Annunziata,,1861,9,28,39,,wLenzi,,,,,,,P,25
+CNW,Biagioni,Massimiliano,,,Pedreschi,Carola,fu Giovanni,1861,9,28,40,,,,,,,,,G,25
+CNW,Terni,Iacopo,,,Venturelli,Marianna,,1861,10,3,41,,,,,,,,,G,26
+CNW,Bonaldi,Pietro,D,Angelo,Biagioni,Giovanna,Francesco,1861,10,3,42,Torrite,,,,,,,,G,27
+CNW,Turri,Giovanni,,,Baldacci,Pasqua,,1861,10,3,43,,,,,,,,,P,27
+CNW,Tortelli,Domenico,,,Suffredini,Clotilde,,1861,10,3,44,,,,,,,,,P,28
+CNW,Bonini,Pietro,,,Andreucci,Palmira,,1861,10,5,45,,,,,,,,,P,28
+CNW,Tortelli,Domenico,,,Suffredini,Clotilde,,1861,10,6,46,,,,,,,,,G,28
+CNW,Turri,Giovanni,,,Baldacci,Pasqua,,1861,10,8,47,,,,,,,,,G,29
+CNW,Venturelli,Luigi,,,Piazzaroli,Angela,fu Lorenzo,1861,10,10,48,,,,,,,,,G,30
+CNW,Conti,Luigi,D,Angelo,Cecchini,Annunziata,,1861,10,10,49,,wLenzi,,,,,,,G,30
+CNW,Iacconi,Luigi,,,Piazzaroli,Angela,,1861,10,11,50,,,,,,,,,P,31
+CNW,Bonini,Pietro,,,Andreucci,Palmira,,1861,10,11,51,,,,,,,,,G,32
+CNW,Iacconi,Luigi,,,Piazzaroli,Angela,,1861,10,12,52,,,,,,,,,G,32
+CNW,Virgili,Domenico,,,Grandini,Lucia,,1861,11,14,53,,,,,,,,,P,33
+CNW,Virgili,Domenico,,,Grandini,Lucia,,1861,11,14,54,,,,,,,,,G,33
+CNW,Ferrari,Luigi,,,Bosi,Angela,,1861,11,19,55,,,,,,,,,P,34
+CNW,Rossi,Paolo,F,Luigi,Turri,Teresa,Giuseppe,1861,11,24,56,y37 mM.D.Pedreschi,y22,,,CNW/Gragnanella,,,,P,34
+CNW,Capitani,Giuseppe,F,Fortunato,Pucci,Beatrice,fu Francesco,1861,11,27,57,y49,y35 wFr.Barsanti,,,,,,,P,35
+CNW,Ferrari,Luigi,,,Bosi,Angela,,1861,11,28,58,,,,,,,,,G,35
+CNW,Guidi,Anselmo,,,Lombardi,Maria,,1861,11,28,59,,,,,,,,,P,36
+CNW,Michelini,Batista,,,Giovannetti,Marianna,,1861,11,29,60,,,,,,,,,P,36
+CNW,Capitani,Giuseppe,F,Fortunato,Pucci,Beatrice,fu Francesco,1861,12,3,61,,,,,,,,,G,37
+CNW,Rossi,Paolo,F,Luigi,Turri,Teresa,Giuseppe,1861,12,6,62,y37 mM.D.Pedreschi,y22,,,,,,,G,37
+CNW,Michelini,Batista,,,Giovannetti,Marianna,,1861,12,6,63,,,,,,,,,G,38
+CNW,Biagioni,Giovanni Batista,,,Pieroni,Maria Assunta,,1861,12,8,64,,,,,,,,,P,38
+CNW,Biagioni,Giovanni Batista,,,Pieroni,Maria Assunta,,1861,12,9,65,,,,,,,,,G,39
+CNW,Bonini,Alessandro,,,Bonini,Luigia,,1861,12,27,66,,,,,,,,,P,39
+CNW,Bonini,Alessandro,,,Bonini,Luigia,,1861,12,30,67,,,,,,,,,G,40
+CNW,Pucci,Giovanni,,,Tortelli,Giovanna,,1862,1,12,1,,,,,,,,,P,4
+CNW,Pucci,Giovanni,,,Tortelli,Giovanna,,1862,1,12,2,,,,,,,,,G,4
+CNW,Guidi,Anselmo,,,Lombardi,Maria,,1862,1,15,3,,,,,,,,,G,5
+CNW,Lenzi,Ferdinando,,,Poli,Maria Estere,,1862,1,5,4,,,,,,,,,P,5
+CNW,Lenzi,Ferdinando,,,Poli,Maria Estere,,1862,1,31,5,,,,,,,,,G,6
+CNW,Codeluppi,Angelo,D,Antonio,Bertagna,Paolina,f Bartolomeo,1862,2,8,6,R.E.,avvenuto,26 apr 1857,,,,,,,6
+CNW,Giovannetti,Antonio,,,Bonini,Matilde,,1862,3,27,7,,,,,,,,,P,7
+CNW,Giovannetti,Antonio,,,Bonini,Matilde,,1862,3,27,8,,,,,,,,,G,7
+CNW,Azzi,Pietro,D,Geminiano,Bianchini,Zelmira ,,1862,4,21,9,,,,,,,,,P,8
+CNW,Pieroni,Costante,,,Turri,Luigia,,1862,4,27,10,,,,,,,,,P,9
+CNW,Morelli,Michele,,,Genesini,Elena,,1862,4,28,11,,,,,,,,,P,9
+CNW,Azzi,Pietro,D,Geminiano,Bianchini,Zelmira ,,1862,4,29,12,,,,,,,,,G,10
+CNW,Pieroni,Costante,,,Turri,Luigia,,1862,5,7,13,,,,,,,,,G,10
+CNW,Morelli,Michele,,,Genesini,Elena,,1862,5,10,14,,,,,,,,,G,11
+CNW,Lucarini,Raffaele,D,Stefano,Franchi,Alaide,,1862,5,10,15,y28 maestro di musica m.Fabbri Rosa,,,,may19,,,,P,11
+CNW,Paolini,Tommaso,,,Paolini,Maria Giuditta,,1862,5,31,16,,,,,,,,,P,12
+CNW,Paolini,Tommaso,,,Paolini,Maria Giuditta,,1862,5,31,17,,,,,,,,,G,12
+CNW,Lucarini,Raffaele,D,Stefano,Franchi,Alaide,,1862,6,4,18,y28 maestro di musica m.Fabbri Rosa,,,,may19,,,,G,13
+CNW,Terni,Giovanni,,,Cecchini,Filomena,,1862,6,20,19,,,,,,,,,P,13
+CNW,Terni,Giovanni,,,Cecchini,Filomena,,1862,6,28,20,,,,,,,,,G,14
+CNW,Lunardi,Francesco,,,Azzi,Elisabetta,,1862,7,13,21,,,,,,,,,P,15
+CNW,Dini,Francesco,,,Bortolotti,Maria Armida,,1862,7,17,22,,,,,,,,,P,15
+CNW,Lunardi,Francesco,,,Azzi,Elisabetta,,1862,7,21,23,,,,,,,,,G,16
+CNW,Dini,Francesco,,,Bortolotti,Maria Armida,,1862,7,24,24,,,,,,,,,G,16
+CNW,Pucci,Biagio,,,Terni,Matilde,,1862,7,24,25,,,,,,,,,P,17
+CNW,Partigliani,Giuseppe,,,Terni,Giuseppa,,1862,8,2,26,Sillicano,,,,,,,,P,17
+CNW,Partigliani,Giuseppe,,,Terni,Giuseppa,,1862,8,2,27,,,,,,,,,G,18
+CNW,Venturelli,Angelo,,,Terni,Maria Domenica,,1862,8,5,28,,,,,,,,,P,18
+CNW,Venturelli,Angelo,,,Terni,Maria Domenica,,1862,8,7,29,,,,,,,,,G,19
+CNW,Guazzelli,Domenico,,,Tolaini,Lucia,,1862,8,7,30,,,,,,,,,P,20
+CNW,Bernardini,Nicolao,,,Bonini,Maria,,1862,8,14,31,,,,,,,,,P,20
+CNW,Guazzelli,Domenico,,,Tolaini,Lucia,,1862,8,19,32,,,,,,,,,G,20
+CNW,Bernardini,Nicolao,,,Bonini,Maria,,1862,8,21,33,,,,,,,,,G,21
+CNW,Bechelli,Luigi,,,Bonaldi,Margherita,,1862,8,26,34,or Beghelli,,,,,,,,P,22
+CNW,Pucci,Biagio,,,Terni,Matilde,,1862,9,1,35,,,,,,,,,G,22
+CNW,Bechelli,Luigi,,,Bonaldi,Margherita,,1862,9,3,36,or Beghelli,,,,,,,,G,23
+CNW,Bertagni,Francesco,,,Rossi,Assunta,Francesco,1862,9,6,37,y21 cappellaio,y21 mBiagioni Angela,,,Pontardeto/CNW,,,,P,23
+CNW,Bertoncini,Antonio,,,Bonini,Maria,,1862,9,11,38,Palleroso,,,,,,,,P,24
+CNW,Bertagni,Francesco,,,Rossi,Assunta,Francesco,1862,9,14,39,y21 cappellaio,y21 mBiagioni Angela,,,Pontardeto/CNW,,,,G,24
+CNW,Bertoncini,Antonio,,,Bonini,Maria,,1862,9,15,40,Palleroso,,,,,,,,G,25
+CNW,Bertucci,Antonio,,,Franchi,Giuditta,,1862,9,27,41,Pontardeto,,,,,,,,P,26
+CNW,Valdrighi,Ferdinando,,,Bonini,Maddalena,,1862,10,6,42,Palleroso,,,,,,,,P,26
+CNW,Bertolini,Giuseppe,,,Turri,Luigia,,1862,10,2,43,,,,,,,,,P,27
+CNW,Fornari,Francesco,,,Togni,Pasqua,,1862,10,2,44,,,,,,,,,P,27
+CNW,Salotti,Francesco,,,Menghini,Teresa,,1862,10,2,45,,,,,,,,,P,28
+CNW,Bertucci,Antonio,,,Franchi,Giuditta,,1862,10,6,46,,,,,,,,,G,28
+CNW,Valdrighi,Ferdinando,,,Bonini,Maddalena,,1862,10,9,47,,,,,,,,,G,29
+CNW,Salotti,Francesco,,,Menghini,Teresa,,1862,10,9,48,Palleroso,,,,,,,,G,29
+CNW,Bertolini,Giuseppe,,,Turri,Luigia,,1862,10,10,49,,,,,,,,,G,30
+CNW,Fornari,Francesco,,,Togni,Pasqua,,1862,10,11,50,,,,,,,,,G,30
+CNW,Riani,Michele,,,Biagioni,Teresa,,1862,10,30,51,,,,,,,,,P,31
+CNW,Monti,Luigi,,,Bonini,Marianna,,1862,11,15,52,,,,,,,,,P,32
+CNW,Giovannoli,Nicolao,,,Pierotti,Diamante,,1862,11,5,53,,,,,,,,,P,32
+CNW,Giovannoli,Nicolao,,,Pierotti,Diamante,,1862,11,5,54,,,,,,,,,G,33
+CNW,Riani,Michele,,,Biagioni,Teresa,,1862,11,6,55,,,,,,,,,G,33
+CNW,Rosa,Michele,,,Tonnocchi,Marianna,,1862,11,8,56,y50,,,,,,,,P,34
+CNW,Rosa,Michele,,,Tonnocchi,Marianna,,1862,11,10,57,,,,,,,,,G,34
+CNW,Guazzelli,Pasquale,,,Pellegrini,Rosa,,1862,11,22,58,,,,,,,,,P,35
+CNW,Monti,Luigi,,,Bonini,Marianna,,1862,11,15,59,,,,,,,,,G,35
+CNW,Guazzelli,Pasquale,,,Pellegrini,Rosa,,1862,11,22,60,,,,,,,,,G,36
+CNW,Bertucci,Iacopo,D,Stanislao,Azzi,Teresa,Vincenzo,1863,1,3,1,,,,,,,,,P,28
+CNW,Bertucci,Iacopo,D,Stanislao,Azzi,Teresa,Vincenzo,1863,1,10,2,,,,,,,,,G,
+CNW,Corsi,Domenico,,,Fornari,Maria,,1863,1,31,3,,,,,,,,,P,
+CNW,Bonini,Luigi,,,Salotti,Angela,,1863,2,5,4,Migliano/Palleroso,,,,,,,,P,
+CNW,Corsi,Domenico,,,Fornari,Maria,,1863,2,5,5,,,,,,,,,G,
+CNW,Monticelli,Pietro,,,Bertoncini,Teresa,,1863,2,5,6,,,,,,,,,P,
+CNW,Bonini,Luigi,,,Salotti,Angela,,1863,2,12,7,Migliano/Palleroso,,,,,,,,G,
+CNW,Rossi,Angelo,D,Francesco,Castelli,Maria Albina,Antonio,1863,2,12,8,y25 mBiagioniAngela,y20,,,CNW/CGL,,,,P,
+CNW,Rossi,Angelo,D,Francesco,Castelli,Maria Albina,Antonio,1863,2,19,9,y25 mBiagioniAngela,y20,,,CNW/CGL,,,,G,
+CNW,Monticelli,Pietro,,,Bertoncini,Teresa,,1863,2,21,10,,,,,,,,,G,
+CNW,Giovannini,Giovanni,,,Papi,Maria Pasqua,,1863,3,5,11,y44,y37 wDomenicali ,,,,,,,P,
+CNW,Giovannini,Giovanni,,,Papi,Maria Pasqua,,1863,3,5,12,y44,y37 wDomenicali ,,,,,,,G,
+CNW,Bacci,Annibale,,,Righini,Caterina,,1863,4,15,13,,,,,,,,,P,
+CNW,Tortelli,Francesco,,,Tortelli,Luigia,,1863,4,25,14,,,,,,,,,P,
+CNW,Bacci,Annibale,,,Righini,Caterina,,1863,4,27,15,,,,,,,,,G,
+CNW,Coli,Michele,,,Biagioni,Marianna,,1863,4,27,16,,,,,,,,,P,
+CNW,Tortelli,Francesco,,,Tortelli,Luigia,,1863,4,25,17,,,,,,,,,G,
+CNW,Coli,Michele,,,Biagioni,Marianna,,1863,5,11,18,,,,,,,,,G,
+CNW,Turri,Giuseppe,F,Domenico,Barberis,Emilia,,1863,6,19,19,P=Torino,,,,,,,,G,
+CNW,Conti,Giuseppe,,,Fiori,Angela,,1863,6,21,20,,,,,,,,,P,
+CNW,Biagioni,Carlo,,,Lunardi,Maria Domenica,,1863,6,30,21,,,,,,,,,P,
+CNW,Conti,Giuseppe,,,Fiori,Angela,,1863,6,21,22,,,,,,,,,G,
+CNW,Biagioni,Carlo,,,Lunardi,Maria Domenica,,1863,7,8,23,,,,,,,,,G,
+CNW,Paolini,Ginese,F,Francesco,Serafini,Clementina,,1863,8,29,24,,,,,Palleroso,,,,P,
+CNW,Esposti,Antonio Adeodato,X,N.N.,Poli,Maria Annunziata,,1863,9,6,25,wBiagioniRosa,,,,,,,,P,
+CNW,Paolini,Ginese,F,Francesco,Serafini,Clementina,,1863,8,29,26,,,,,Palleroso,,,,G,
+CNW,Venturelli,Giovanni,,,Monti,Claudia,,1863,9,9,27,,,,,,,,,P,
+CNW,Esposti,Antonio Adeodato,X,N.N.,Poli,Maria Annunziata,,1863,9,12,28,wBiagioniRosa,,,,,,,,G,
+CNW,Venturelli,Giovanni,,,Monti,Claudia,,1863,9,14,29,,,,,,,,,G,
+CNW,Salotti,Domenico,,,Turri,Maria,,1863,10,1,30,,,,,,,,,P,
+CNW,Salotti,Domenico,,,Turri,Maria,,1863,10,8,31,,,,,,,,,G,
+CNW,Suffredini,Nicolao,,,Cavani,Maria,Geminiano,1863,11,6,32,,mugnaia,,,Filicaia/Sillicano-Gragnanella,,,,P,
+CNW,Suffredini,Nicolao,,,Cavani,Maria,Geminiano,1863,11,17,33,,mugnaia,,,Filicaia/Sillicano-Gragnanella,,,,G,
+CNW,Poli,Sante,,,Valdrighi,Rosa,,1863,11,25,34,,,,,,,,,P,
+CNW,Fornari,Luigi,,,Giovannetti,Giovanna,,1863,11,26,35,,,,,,,,,P,
+CNW,Poli,Sante,,,Valdrighi,Rosa,,1863,12,1,36,,,,,,,,,G,
+CNW,Fornari,Luigi,,,Giovannetti,Giovanna,,1863,12,3,37,,,,,,,,,G,
+CNW,Rocchiccioli,Pietro,D,Giovanni,Biagioni,Luigia,Luigi,1863,12,4,38,y33,,,,,,,,P,
+CNW,Rocchiccioli,Pietro,D,Giovanni,Biagioni,Luigia,Luigi,1863,12,10,39,y33,,,,,,,,G,
+CNW,Cursi,Giovanni,D,Paolo Antonio,Coli,Chiara Assunta,,1864,1,7,1,,,,,,,,,P,
+CNW,Biagioni,Matteo,F,Antonio,Biagioni,Beatrice,fu Giovanni,1864,1,13,2,,,,,,,,,P,
+CNW,Incerti,Michelangelo,X,N.N.,Cavani,Giovanna,Geminiano,1864,1,15,3,,Corfino,,,,,,,P,
+CNW,Cursi,Giovanni,D,Paolo Antonio,Coli,Chiara Assunta,,1864,1,16,4,,,,,,,,,G,
+CNW,Biagioni,Matteo,F,Antonio,Biagioni,Beatrice,fu Giovanni,1864,1,18,5,,,,,,,,,G,
+CNW,Bertolaccini,Antonio,,,Fiori,Lucia,,1864,1,19,6,Monterotondo,Monterotondo,,,,,,,P,
+CNW,Incerti Cerri,Michelangelo,X,N.N.,Cavani,Giovanna,Geminiano,1864,1,27,7,,,,,,,,,G,
+CNW,Rontanini,Luigi,,,Tegami,Chiara,,1864,2,1,8,,,,,,,,,P,
+CNW,Rontanini,Luigi,,,Tegami,Chiara,,1864,2,4,9,,,,,,,,,G,
+CNW,Bertolaccini,Antonio,,,Fiori,Lucia,,1864,2,19,10,,,,,,,,,G,
+CNW,Biagioni,Pietro,,,Biagioni,Rosa,,1864,3,4,11,,,,,,,,,P,
+CNW,Biagioni,Pietro,,,Biagioni,Rosa,,1864,3,10,12,,,,,,,,,G,
+CNW,Bassi,Pietro,,,Pergoli,Eufrasia,,1864,3,16,13,,,,,,,,,P,
+CNW,Rocco,Achille,,,Giovannoli,Silvia,,1864,3,19,14,,,,,,,,,P,
+CNW,Bassi,Pietro,,,Pergoli,Eufrasia,,1864,3,30,15,,,,,,,,,G,
+CNW,Venturelli,Luigi,,,Terni,Agata,,1864,4,1,16,,,,,,,,,P,
+CNW,Venturelli,Luigi,,,Terni,Agata,,1864,4,15,17,,,,,,,,,G,
+CNW,Rocco,Achille,,,Giovannoli,Silvia,,1864,4,15,18,,,,,,,,,G,
+CNW,Vanni,Cherubino,,,Giannasi,Lucia,,1864,4,16,19,,,,,,,,,P,
+CNW,Vanni,Cherubino,,,Giannasi,Lucia,,1864,4,19,20,,,,,,,,,G,
+CNW,Fusai,Luigi,,,Terni,Celeste,,1864,4,21,21,,,,,,,,,P,
+CNW,Campedelli,Luigi,,,Bernardini,Emilia,,1864,4,22,22,,,,,,,,,P,
+CNW,Campedelli,Luigi,,,Bernardini,Emilia,,1864,4,27,23,,,,,,,,,G,
+CNW,Capitani,Vincenzo,,,Piagentini,Rachele,,1864,4,29,24,,,,,,,,,P,
+CNW,Fusai,Luigi,,,Terni,Celeste,,1864,4,30,25,,,,,,,,,G,
+CNW,Pioli,Massimo,D,Pellegrino,Rossi,Maria Santina,fu Luigi,1864,5,3,26,y34 mBonaldi Angela,y26 mFananiMarianna,,,,,,,P,
+CNW,Capitani,Vincenzo,,,Piagentini,Rachele,,1864,5,7,27,,,,,,,,,G,
+CNW,Pioli,Massimo,D,Pellegrino,Rossi,Maria Santina,fu Luigi,1864,5,8,28,y34 mBonaldi Angela,y26 mFananiMarianna,,,,,,,G,28
+CNW,Bonini,Giuseppe,,,Gatti,Luigia,,1864,5,13,29,,,,,,,,,P,
+CNW,Bonini,Giuseppe,,,Gatti,Luigia,,1864,5,21,30,,,,,,,,,G,
+CNW,Bernardini,Nicolao,,,Marigliani,Maria,,1864,6,23,31,,,,,,,,,P,
+CNW,Bernardini,Nicolao,,,Marigliani,Maria,,1864,6,30,32,,,,,,,,,G,
+CNW,Ferrari,Luigi,,,Giovannetti,Pasqua,,1864,7,5,33,,,,,,,,,P,
+CNW,Ferrari,Luigi,,,Giovannetti,Pasqua,,1864,7,10,34,,,,,,,,,G,
+CNW,Ciani,Giuseppe,D,Giovacchino,Satti,Umiltà,fu Giacomo,1864,7,14,35,y26,y17 Eglio,,,,,,,P,
+CNW,Ciani,Giuseppe,D,Giovacchino,Satti,Umiltà,fu Giacomo,1864,8,17,36,y26,y17 Eglio,,,,,,,G,
+CNW,Pergoli,Valente,,,Lenzi,Rosa,,1864,8,29,37,,,,,,,,,P,
+CNW,Pergoli,Valente,,,Lenzi,Rosa,,1864,9,11,38,,,,,,,,,G,
+CNW,Bacci,Francesco,,,Turri,Teresa,,1864,9,29,39,,,,,,,,,P,
+CNW,Ambrogi,Battista,F,Francesco,Coli,Maria,Marco,1864,9,29,40,,,,,,,,,P,
+CNW,Salotti,Felice,,,Papi,Filomena,,1864,10,2,41,,,,,,,,,P,
+CNW,Ciambelli,Giuseppe,,,Piazzaroli,Teresa,,1864,10,3,42,,,,,,,,,P,
+CNW,Ambrogi,Giovanni Batista,F,Francesco,Coli,Maria,Marco,1864,10,5,43,,,,,,,,,G,
+CNW,Bacci,Francesco,,,Turri,Teresa,,1864,10,6,44,,,,,,,,,G,
+CNW,Salotti,Felice,D,Pasquale,Papi,Filomena,Paolo,1864,10,7,45,Ceserana/Torrite,,,,,,,,G,
+CNW,Bertoi,Massimiliano,,,Biagioni,Enrichetta,,1864,10,8,46,,,,,,,,,P,
+CNW,Castori,Lazzaro,,,Rocchiccioli,Caterina,,1864,10,10,47,,,,,,,,,P,
+CNW,Bertoi,Massimiliano,,,Biagioni,Enrichetta,,1864,10,10,48,,,,,,,,,G,
+CNW,Castori,Lazzaro,,,Rocchiccioli,Caterina,,1864,10,17,49,,,,,,,,,G,
+CNW,Ciambelli,Giuseppe,,,Piazzaroli,Teresa,,1864,10,20,50,,,,,,,,,G,
+CNW,Fiori,Uriele,D,Angelo,Satti,Filomena,,1864,10,22,51,,Torrite,,,,,,,P,
+CNW,Fiori,Uriele,D,Angelo,Satti,Filomena,,1864,10,28,52,,Torrite,,,,,,,G,
+CNW,Andreucci,Giuseppe,,,Tortelli,Rosa,,1864,11,3,53,,,,,,,,,P,
+CNW,Andreucci,Giuseppe,,,Tortelli,Rosa,,1864,11,15,54,,,,,,,,,G,
+CNW,Rossi,Ferdinando,D,Francesco,Biagioni,Luigia,fu Antonio,1864,11,18,55,y26 mfBiagioniAngela,y28 mPedreschiDomenica,,,,,,,P,
+CNW,Rossi,Ferdinando,D,Francesco,Biagioni,Luigia,fu Antonio,1864,11,24,56,y26 mfBiagioniAngela,y28 mPedreschiDomenica,,,,,,,G,56
+CNW,Giannasi,Francesco,,,Tortelli,Maria,,1864,11,25,57,,,,,,,,,P,
+CNW,Giannasi,Francesco,,,Tortelli,Maria,,1864,12,2,58,,,,,,,,,G,
+CNW,Lombardi,Pietro,,,Monticelli,Erina,,1864,12,9,59,,,,,,,,,P,
+CNW,Bonini,Giovanni,,,Giannasi,Maria Annunziata,,1864,12,13,60,Palleroso,,,,,,,,P,
+CNW,Lombardi,Pietro,,,Monticelli,Erina,,1864,12,15,61,,,,,,,,,G,
+CNW,Bonini,Giovanni,,,Giannasi,Maria Annunziata,,1864,12,17,62,Palleroso,,,,,,,,G,
+CNW,Biagioni,Giuseppe,D,Giovanni,Santi,Chiara,fu Iacopo,1864,12,31,63,y29 mCorvettiElisabetta,Monterotondo/Cascio,,,,,,,P,
+CNW,Biagioni,Giuseppe,D,Giovanni,Santi,Chiara,fu Iacopo,1865,1,7,1,y29 mCorvettiElisabetta,Monterotondo/Cascio,,,,,,,G,4
+CNW,Lilla,Edoardo,F,Giovanni,Pergoli,Filomena,,1865,1,12,2,,,,,,,,,P,
+CNW,Lilla,Edoardo,F,Giovanni,Pergoli,Filomena,,1865,1,20,3,fatica indiv. Sposa,,,,,,,,G,
+CNW,Michelini,Enrico,D,Vincenzo,Venturini,Teresa,,1865,1,21,4,,,,,,,,,P,
+CNW,Michelini,Enrico,D,Vincenzo,Venturini,Teresa,,1865,1,28,5,,,,,,,,,G,
+CNW,Salvetti,Gabriele,F,Fortunato,Togni,Annunziata,,1865,2,1,6,wCiambelli,,,,,,,,P,
+CNW,Salvetti,Gabriele,F,Fortunato,Togni,Annunziata,,1865,2,8,7,wCiambelli,,,,,,,,G,
+CNW,Quirici,Michele,D,Matteo,Aquilini,Maria,,1865,2,9,8,,,,,,,,,P,
+CNW,Sartini,Giuseppe,D,Domenico,Rolandi,Maria,,1865,2,26,9,Borgo a Mozzano,,,,,,,,P,
+CNW,Togni,Alessandro,,,Fornari,Maria,,1865,2,27,10,,,,,,,,,P,
+CNW,Togni,Alessandro,,,Fornari,Maria,,1865,3,2,11,,,,,,,,,G,
+CNW,Quirici,Michele,,,Aquilini,Maria,,1865,3,3,12,,,,,,,,,G,
+CNW,Sartini,Giuseppe,D,Domenico,Rolandi,Maria,,1865,3,14,13,Borgo a Mozzano,,,,,,,,G,
+CNW,Bertagni,Vincenzo,D,Francesco,Giorgis,Aldegonda,Nicolao,1865,3,23,14,,,,,,,,,P,
+CNW,Bertagni,Vincenzo,D,Francesco,Giorgis,Aldegonda,Nicolao,1865,3,28,15,,,,,,,,,G,
+CNW,Giannetti,Giovanni Batista,D,Giuseppe,Micheli,Carola,Giovanni Batista,1865,4,27,16,y28,,,,,,,,P,
+CNW,Bertucci,Baldassarre,,,Azzi,Beatrice,,1865,4,27,17,,,,,,,,,P,
+CNW,Giovannetti,Agostino,,,Pecchi,Lucia,,1865,4,28,18,,,,,,,,,P,
+CNW,Biagioni,Ignazio,,,Suffredini,Rosa,,1865,4,29,19,,,,,,,,,P,
+CNW,Bertucci,Baldassarre,,,Azzi,Beatrice,,1865,5,4,20,,,,,,,,,G,
+CNW,Giovannetti,Agostino,,,Pecchi,Lucia,,1865,5,4,21,,,,,,,,,G,
+CNW,Biagioni,Ignazio,,,Suffredini,Rosa,,1865,5,6,22,,,,,,,,,G,
+CNW,Pucci,Antonio,,,Bertolini,Generosa,,1865,5,7,23,,,,,,,,,P,
+CNW,Pucci,Antonio,,,Bertolini,Generosa,,1865,5,13,24,,,,,,,,,G,
+CNW,Giannetti,Giovanni Batista,D,Giuseppe,Micheli,Carola,Giovanni Batista,1865,5,18,25,y28,,,,,,,,G,
+CNW,Ferrari,Angelo Raffaele,D,Antonio,Favali,Maria Teresa,,1865,5,20,26,y30 wRocchiccioli,wPoli,,,,,,,P,
+CNW,Ferrari,Angelo Raffaele,D,Antonio,Favali,Maria Teresa,,1865,5,31,27,y30 wRocchiccioli,wPoli,,,,,,,G,
+CNW,Ferrari,Angelo Raffaele,D,Antonio,Rocchiccioli,Rosa Gioconda,Giovanni,1865,6,6,28,23 jun 1858,prime nozze,,,,,,,X,
+CNW,Vanni,Giovanni,,,Gaddi,Celeste,,1865,6,18,29,,,,,,,,,P,
+CNW,Pioli,Federigo,D,Iacopo,Guidi,Cesira,,1865,6,19,30,,,,,,,,,P,
+CNW,Giannotti,Pellegrino,,,Giovannetti,Annunziata,,1865,6,19,31,,,,,,,,,P,
+CNW,Vanni,Giovanni,,,Gaddi,Celeste,,1865,6,20,32,,,,,,,,,G,
+CNW,Giannotti,Pellegrino,,,Giovannetti,Annunziata,,1865,6,24,33,,,,,,,,,G,
+CNW,Pioli,Federigo,D,Iacopo,Guidi,Cesira,,1865,6,30,34,y26 CPG,,,,,,,,G,
+CNW,Mori,Francesco,,,Favali,Giovanna,,1865,7,6,35,,,,,,,,,P,
+CNW,Mori,Francesco,,,Favali,Giovanna,,1865,7,13,36,,,,,,,,,G,
+CNW,Biagioni,Giuseppe,D,Carlo,Santi,Chiara,fu Iacopo,1865,7,31,37,,,,,,,,,P,
+CNW,Turri,Giovanni,,,Grassi,Filomena,,1865,8,4,38,,,,,,,,,P,39
+CNW,Biagioni,Giuseppe,D,Carlo,Santi,Chiara,fu Iacopo,1865,8,7,39,y27 Monterotondo/Cascio,1864 N.63,,,,,,,G,39
+CNW,Turri,Giovanni,,,Grassi,Filomena,,1865,7,31,40,y31,,,,,,,,G,
+CNW,Lucchesi,Raffaele,D,Giovanni,Biagioni,Marianna,,1865,9,8,41,Piandicerreto,,,,,,,,P,
+CNW,Lucchesi,Raffaele,D,Giovanni,Biagioni,Marianna,,1865,9,14,42,Piandicerreto,,,,,,,,G,
+CNW,Tolaini,Paolo,F,Luigi,Giannasi,Luigia,,1865,9,16,43,,,,,,,,,P,
+CNW,Coli,Serafino,D,Giuseppe,Cancherini,Maria,Iacopo,1865,9,21,44,,,,,,,,,P,
+CNW,Tolaini,Paolo,F,Luigi,Giannasi,Luigia,,1865,9,22,45,,,,,,,,,G,
+CNW,Coli,Serafino,D,Giuseppe,Cancherini,Maria,Iacopo,1865,9,28,46,Capricchia,,,,,,,,G,
+CNW,Coli,Giovanni,F,Luigi,Papi,Maria,,1865,10,5,47,,,,,,,,,P,
+CNW,Vergamini,Giovanni,F,Francesco,Bacci,Vittoria,,1865,10,12,48,,,,,,,,,P,
+CNW,Coli,Giovanni,F,Luigi,Papi,Maria,,1865,10,12,49,,,,,,,,,G,
+CNW,Toni,Giovanni,D,Baldassarre,Bacci,Rosa,Francesco,1865,10,14,50,,,,,,,,,P,
+CNW,Toni,Giovanni,D,Baldassarre,Bacci,Rosa,Francesco,1865,10,17,51,PFO,,,,,,,,G,
+CNW,Vergamini,Giovanni,F,Francesco,Bacci,Vittoria,,1865,10,19,52,,,,,,,,,G,
+CNW,Suffredini,Giovanni,D,Iacopangelo,Fanani,Teresa,,1865,10,21,53,,,,,,,,,P,
+CNW,Monti,Ferdinando,F,Pellegrino,Boschi,Marianna,,1865,11,4,54,,,,,,,,,P,
+CNW,Suffredini,Giovanni,D,Iacopangelo,Fanani,Teresa,,1865,11,8,55,,Sillicano,,,,,,,G,
+CNW,Monti,Ferdinando,F,Pellegrino,Boschi,Marianna,,1865,11,9,56,,,,,,,,,G,
+CNW,Giovannini,Giuseppe,,,Suffredini,Assunta,,1865,11,21,57,,,,,,,,,P,
+CNW,Giovannini,Giuseppe,,,Suffredini,Assunta,,1865,11,27,58,,,,,,,,,G,
+CNW,Mori,Pietro,F,Bartolomeo,Togni,Pasqua,,1865,11,28,59,,,,,,,,,P,
+CNW,Ferrari,Ferdinando,D,Luigi,Tagri,Elisa,H Pisa,1865,11,30,60,y30 Palleroso/CPGSillicano,wRocchiccioli,,,,,,,P,
+CNW,Ferrari,Ferdinando,D,Luigi,Tagri,Elisa,H Pisa,1865,12,2,61,y30 Palleroso/CPGSillicano,wRocchiccioli,,,,,,,G,
+CNW,Mori,Pietro,F,Bartolomeo,Togni,Pasqua,,1865,12,7,62,,wPoli Rontano,,,,,,,G,
+CNW,Dini,Edoardo Raffaele,D,Giovanni Paolo,Castelli,Rosa,Giuseppe,1865,12,18,63,Gragnanella,,,,,,,,P,
+CNW,Fabbiani,Leopoldo,F,Carlo,Fontana,Maria,fu Ferdinando,1865,12,20,64,,,,,,,,,P,
+CNW,Marigliani,Michele,,,Vanni,Teresa,,1865,12,22,65,,,,,,,,,P,
+CNW,Mazzei,Primitivo,F,Angelo,Rossi,Marianna,fu Luigi,1865,12,23,66,,,,,,,,,P,
+CNW,Bianchi,Massimiliano,,,Bertoncini,Maddalena,,1865,12,24,67,,,,,,,,,P,
+CNW,Fabbiani,Leopoldo,F,Carlo,Fontana,Maria,fu Ferdinando,1865,12,26,68,,,,,,,,,G,
+CNW,Mazzei,Primitivo,F,Angelo,Rossi,Marianna,fu Luigi,1865,12,26,69,y26 mMontiMarianna,y21 mPedreschiMDomenica,,,,,,,G,69
+CNW,Marigliani,Michele,,,Vanni,Teresa,,1865,12,27,70,,,,,,,,,G,
+CNW,Bianchi,Massimiliano,,,Bertoncini,Maddalena,,1865,12,27,71,,,,,,,,,G,
+CNW,Tolaini,Luigi,,,Pecchi,Uliva,fu Giuseppe,1865,12,28,72,,Torrite,,,,,,,P,
+CNW,Turri,Giuseppe,F,Carlo,Pieroni,Maria Beatrice,,1865,12,28,73,,,,,,,,,P,
+CNW,Biagioni,Angelo,,,Bertoncini,Filomena,,1865,12,28,74,,,,,,,,,P,
+CNW,Tolaini,Pellegrino,F,Luigi,Laioffi,Ernesta/Ester ,N.N.,1865,12,28,75,,,,,,,,,P,
+CNW,Dini,Edoardo Raffaele,D,Giovanni Paolo,Castelli,Rosa,Giuseppe,1865,12,29,76,Gragnanella,,,,,,,,G,
+CNW,Biagioni,Angelo,,,Bertoncini,Filomena,,1865,12,29,77,,,,,,,,,G,
+CNW,Michelini,Francesco,F,Vincenzo,Pardi,Beatrice,,1865,12,29,78,,,,,,,,,P,
+CNW,Turri,Giuseppe,F,Carlo,Pieroni,Maria Beatrice,,1865,12,30,79,,,,,,,,,G,
+CNW,Marigliani,Francesco,D,Angelo,Pardi,Maria,Giuseppe,1865,12,30,80,y35 wAngelini,,,,,,,,P,
+CNW,Michelini,Francesco,F,Vincenzo,Pardi,Beatrice,,1865,12,30,81,,,,,,,,,G,
+CNW,Tolaini,Luigi,,,Pecchi,Uliva,fu Giuseppe,1865,12,30,82,,,,,,,,,G,
+CNW,Tolaini,Pellegrino,F,Luigi,Laioffi,Ernesta/Ester ,N.N.,1865,12,31,83,,,,,,,,,G,
+,,,,,,,,,,,,,,,,,,,,,
+,P, = presentazione,,,,,,,,,,,,,,,,,,,
+,A, = attuazione,,,,,,,,,,,,,,,,,,,
+,(link),,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,Test:,,,,,,,,,,,,,,,,,,,,
+,Rossi,,,,,,,,,,,,,,,,,,,,
+,Pedreschi,,,,,,,,,,,,,,,,,,,,
+,Santoni,,,,,,,,,,,,,,,,,,,,
